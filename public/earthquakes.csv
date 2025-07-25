@@ -1,0 +1,535 @@
+id,time,latitude,longitude,depth,mag,location,country,type,status,tsunami,sig,net
+us70006vkq,1578377119759,2.3481,96.3575,17,6.3,14 km S of Sinabang,Indonesia,earthquake,reviewed,0,619,us
+pr2020007007,1578385467370,17.9578,-66.8113,6,6.4,4 km SSE of Indios,Puerto Rico,earthquake,reviewed,1,1820,pr
+us70006vvr,1578424295665,-5.2046,151.2659,117,6,130 km ENE of Kimbe,Papua New Guinea,earthquake,reviewed,0,554,us
+us70006wuf,1578559088278,62.358,171.0611,10,6.4,Chukotskiy Avtonomnyy Okrug,Russia,earthquake,reviewed,0,630,us
+us60007a3h,1579365494301,-2.8405,139.3363,44,6,146 km W of Abepura,Indonesia,earthquake,reviewed,0,555,us
+us60007anp,1579440476630,39.8353,77.1084,5.55,6,104 km ENE of Kashgar,China,earthquake,reviewed,0,1006,us
+us60007arp,1579453100002,-0.1042,123.8025,121.72,6.1,108 km SE of Gorontalo,Indonesia,earthquake,reviewed,0,574,us
+us60007djn,1579758782618,51.9836,-177.855,10,6.2,84 km W of Adak,Alaska,earthquake,reviewed,0,595,us
+us60007ewc,1579888514147,38.4312,39.0609,10,6.7,13 km N of Do?anyol,Turkey,earthquake,reviewed,0,1169,us
+us60007g8m,1580020315398,51.1338,-179.8892,17,6.1,240 km WSW of Adak,Alaska,earthquake,reviewed,1,573,us
+us60007gyx,1580101321704,-10.0929,161.0606,21,6.3,102 km WNW of Kirakira,Solomon Islands,earthquake,reviewed,0,623,us
+us60007idc,1580238624918,19.4193,-78.756,14.86,7.7,123 km NNW of Lucea,Jamaica,earthquake,reviewed,1,1812,us
+us60007iig,1580248516450,18.9457,-80.7411,10,6.1,55 km SE of East End,Cayman Islands,earthquake,reviewed,1,616,us
+us60007j2w,1580305789744,-10.418,161.2756,85,6,70 km W of Kirakira,Solomon Islands,earthquake,reviewed,0,557,us
+us70007j6z,1580926357734,-6.0817,113.0778,592.42,6.2,113 km NNE of Bangkalan,Indonesia,earthquake,reviewed,0,598,us
+us70007jwn,1580996405791,5.4543,126.5692,19,6,109 km SSE of Pondaguitan,Philippines,earthquake,reviewed,0,558,us
+us70007lwy,1581228269967,-5.4925,152.1522,34,6.1,127 km S of Kokopo,Papua New Guinea,earthquake,reviewed,0,575,us
+us70007pa9,1581590024406,45.6161,148.959,143,7,95 km ENE of Kuril’sk,Russia,earthquake,reviewed,1,770,us
+us70007v9g,1582473631626,38.4958,44.3732,10,6,37 km ESE of Özalp,Turkey,earthquake,reviewed,0,662,us
+us600084gu,1582702392952,-7.4887,131.1196,54,6,273 km SW of Tual,Indonesia,earthquake,reviewed,0,563,us
+us60008h76,1584461182370,-16.0252,-172.1911,10,6,171 km E of Hihifo,Tonga,earthquake,reviewed,0,557,us
+us60008hkg,1584501225742,-13.1364,167.0277,176,6.1,99 km NW of Sola,Vanuatu,earthquake,reviewed,0,572,us
+us60008hzl,1584553539299,-11.0521,115.1378,20.68,6.2,249 km S of Nusa Dua,Indonesia,earthquake,reviewed,0,681,us
+us70008fi4,1585104561160,48.9638,157.6955,57.8,7.5,221 km SSE of Severo-Kuril’sk,Russia,earthquake,reviewed,1,879,us
+us70008ghw,1585237084089,5.5669,125.0521,59,6.1,27 km SW of Burias,Philippines,earthquake,reviewed,0,593,us
+us70008jr5,1585698750781,44.4646,-115.1175,12.06,6.5,Stanley,Idaho,earthquake,reviewed,0,1410,us
+us70008peg,1586111830876,1.395,126.4381,42,6,124 km WNW of Ternate,Indonesia,earthquake,reviewed,0,555,us
+us70008xeb,1587024277829,16.9591,-85.6851,12,6.1,59 km NNE of Savannah Bight,Honduras,earthquake,reviewed,1,650,us
+us70008z89,1587198337052,27.1264,140.1349,453,6.6,Bonin Islands,Japan region,earthquake,reviewed,1,686,us
+us7000903m,1587328745639,38.8953,142.0049,38,6.3,31 km SE of ?funato,Japan,earthquake,reviewed,0,638,us
+us60009c06,1587783186698,-6.5337,154.2347,19,6.1,140 km W of Panguna,Papua New Guinea,earthquake,reviewed,0,573,us
+us700098qd,1588423865561,34.1818,25.7101,10,6.5,91 km S of Néa Anatolí,Greece,earthquake,reviewed,0,678,us
+us70009bn4,1588850480152,-4.4643,154.741,471.17,6.1,215 km NNW of Arawa,Papua New Guinea,earthquake,reviewed,0,572,us
+us70009f12,1589323272177,-12.0665,166.6485,107,6.6,175 km SSE of Lata,Solomon Islands,earthquake,reviewed,1,671,us
+nn00725272,1589540607176,38.1689,-117.8497,2.7,6.5,Monte Cristo Range,NV Earthquake,earthquake,reviewed,0,1320,nn
+us70009n5p,1590137166973,22.4152,-108.1275,10,6.1,173 km ESE of La Playa,Mexico,earthquake,reviewed,0,579,us
+us60009zv5,1590563349853,-17.5304,167.8743,9.73,6.2,51 km WNW of Port-Vila,Vanuatu,earthquake,reviewed,0,595,us
+us6000a0um,1590650325146,-22.2146,-174.4196,10,6,111 km SSE of ‘Ohonua,Tonga,earthquake,reviewed,0,555,us
+us6000a316,1590901778593,-15.3256,-70.7731,186,6.1,19 km SW of Vilavila,Peru,earthquake,reviewed,0,618,us
+us6000a4yi,1591169736466,-23.274,-68.4677,112,6.8,48 km SW of San Pedro de Atacama,Chile,earthquake,reviewed,1,835,us
+us6000a5r3,1591260580397,2.911,128.248,112.86,6.4,133 km NNE of Tobelo,Indonesia,earthquake,reviewed,1,635,us
+us6000abcq,1592063484069,28.8591,128.2713,165,6.6,130 km WNW of Naze,Japan,earthquake,reviewed,1,734,us
+us6000abgq,1592082510503,18.9317,145.1116,622,6.2,Pagan region,Northern Mariana Islands,earthquake,reviewed,0,591,us
+us6000ag18,1592766474833,66.381,-18.707,10,6,27 km NNE of Siglufjörður,Iceland,earthquake,reviewed,0,558,us
+us6000ah1z,1592898209219,0.0368,123.7866,109,6,97 km SE of Gorontalo,Indonesia,earthquake,reviewed,0,554,us
+us6000ah9t,1592926144350,15.8861,-96.0077,20,7.4,9 km SE of Santa María Xadani,Mexico,earthquake,reviewed,1,1495,us
+us7000abmk,1593119118140,35.5948,82.4158,10,6.3,278 km SE of Hotan,China,earthquake,reviewed,0,668,us
+us7000aixy,1594059378418,12.0809,140.2476,10,6.2,257 km N of Fais,Micronesia,earthquake,reviewed,0,591,us
+us7000aq3e,1594954222178,-7.836,147.7704,73,7,114 km NNW of Popondetta,Papua New Guinea,earthquake,reviewed,1,820,us
+us7000aqaw,1594994620437,11.8485,94.9362,10,6.1,239 km E of Port Blair,India,earthquake,reviewed,0,573,us
+us7000aqwd,1595086356835,-15.2553,-172.694,12,6.1,141 km ENE of Hihifo,Tonga,earthquake,reviewed,1,573,us
+us7000asvb,1595398364810,55.0715,-158.596,28,7.8,2020 Perryville,Alaska Earthquake,earthquake,reviewed,1,1113,us
+us7000asx4,1595398578627,54.969,-159.0413,16.53,6.1,101 km ESE of Sand Point,Alaska,earthquake,reviewed,0,575,us
+us6000b56k,1595923423215,54.7905,-161.2041,35.15,6.1,75 km SW of Sand Point,Alaska,earthquake,reviewed,1,582,us
+us6000b80p,1596301741952,7.2932,124.1331,483,6.4,11 km SW of Polloc,Philippines,earthquake,reviewed,0,633,us
+us6000b84f,1596309725163,-3.1951,148.6496,10,6.1,199 km SE of Lorengau,Papua New Guinea,earthquake,reviewed,0,572,us
+us6000b9mv,1596629136589,-16.0944,168.065,181.88,6.4,69 km E of Lakatoro,Vanuatu,earthquake,reviewed,0,630,us
+us6000bdg8,1597252396180,-7.3327,39.8126,17.55,6,66 km NNE of Kilindoni,Tanzania,earthquake,reviewed,0,645,us
+us6000bgbr,1597709028566,12.0257,124.1272,10,6.6,13 km E of San Pedro,Philippines,earthquake,reviewed,1,784,us
+us6000bgvl,1597789439497,-4.3217,101.1347,22,6.8,138 km WSW of Bengkulu,Indonesia,earthquake,reviewed,0,716,us
+us6000bgvu,1597789764731,-4.2069,101.2411,26,6.9,122 km WSW of Bengkulu,Indonesia,earthquake,reviewed,0,736,us
+us6000bi4p,1597982991930,-6.71,123.4649,624,6.9,222 km SSE of Katabu,Indonesia,earthquake,reviewed,0,749,us
+us7000bcbv,1598305869259,9.5785,-84.6376,20,6,4 km SSW of Jacó,Costa Rica,earthquake,reviewed,0,606,us
+us7000bctq,1598382178437,-5.5579,151.8638,23,6,141 km SSW of Kokopo,Papua New Guinea,earthquake,reviewed,0,554,us
+us7000bcty,1598382532908,-5.5454,151.8365,22,6.2,141 km SSW of Kokopo,Papua New Guinea,earthquake,reviewed,0,591,us
+us7000bfjr,1598933368470,-27.9686,-71.3062,21,6.8,86 km NW of Vallenar,Chile,earthquake,reviewed,1,824,us
+us7000bfjx,1598934602173,-28.0315,-71.2662,16.18,6.3,78 km NW of Vallenar,Chile,earthquake,reviewed,0,614,us
+us7000bg4v,1598994557852,-27.9162,-71.3701,16,6.5,94 km NW of Vallenar,Chile,earthquake,reviewed,0,674,us
+us7000biqb,1599355018935,-30.3388,-71.4912,30,6.3,40 km NW of Ovalle,Chile,earthquake,reviewed,0,677,us
+us7000birm,1599361156073,-17.1562,167.5321,10,6.2,104 km NW of Port-Vila,Vanuatu,earthquake,reviewed,1,593,us
+us7000biyd,1599405823148,6.2693,125.8285,120,6.3,17 km E of Talagutong,Philippines,earthquake,reviewed,1,631,us
+us7000bj6y,1599459159688,-17.1102,168.5034,10,6.2,72 km NNE of Port-Vila,Vanuatu,earthquake,reviewed,1,594,us
+us7000blm2,1599809757187,-21.3968,-69.9096,51,6.2,82 km NNE of Tocopilla,Chile,earthquake,reviewed,0,693,us
+us7000bm9m,1599878651224,38.7482,142.2446,34,6.1,58 km SE of ?funato,Japan,earthquake,reviewed,0,598,us
+us7000bnd1,1600141288036,55.9733,158.3783,344,6.4,21 km WNW of Esso,Russia,earthquake,reviewed,0,630,us
+us6000c3kz,1601514816524,-19.5385,-174.1217,28,6.4,39 km NE of Pangai,Tonga,earthquake,reviewed,1,635,us
+us6000c3td,1601548485149,-5.9961,148.6656,74,6.1,100 km WNW of Kandrian,Papua New Guinea,earthquake,reviewed,0,576,us
+us6000c6mu,1602142532524,-6.0942,146.1738,106,6.3,40 km ENE of Kainantu,Papua New Guinea,earthquake,reviewed,1,630,us
+us6000c9hg,1603140878950,54.602,-159.6258,28.37,7.6,2020 Sand Point,Alaska Earthquake,earthquake,reviewed,1,1165,us
+us7000c7y0,1604058687348,37.8973,26.7838,21,7,13 km NNE of Néon Karlovásion,Greece,earthquake,reviewed,0,1534,us
+us7000c9jz,1604371254919,-44.4111,-79.375,10,6,Off the coast of Aisen,Chile,earthquake,reviewed,0,554,us
+us7000cbr2,1604741225498,-15.2458,-173.5276,34,6.2,83 km NNE of Hihifo,Tonga,earthquake,reviewed,0,597,us
+us7000cd6e,1605055724122,-19.7177,-177.561,417,6,291 km WNW of Haveluloto,Tonga,earthquake,reviewed,0,554,us
+us7000cfes,1605479863690,8.7572,126.2914,43,6,5 km S of Marihatag,Philippines,earthquake,reviewed,0,567,us
+us7000cfxq,1605577451421,-2.6706,99.3227,19,6,222 km SSW of Padang,Indonesia,earthquake,reviewed,0,554,us
+us6000crcq,1606006496794,-34.5978,-73.0596,22,6.1,100 km NW of Constitución,Chile,earthquake,reviewed,0,664,us
+us7000clbu,1606776874601,48.2521,140.7971,589,6.4,88 km SSE of Sovetskaya Gavan’,Russia,earthquake,reviewed,0,631,us
+us7000clbs,1606776903914,-24.3221,-67.0048,189,6.3,71 km W of San Antonio de los Cobres,Argentina,earthquake,reviewed,0,620,us
+us7000clnv,1606839759923,52.7551,-168.2401,23,6.4,46 km ESE of Nikolski,Alaska,earthquake,reviewed,1,639,us
+us7000cnnz,1607273262643,-20.3947,-69.0609,105,6.1,115 km E of Iquique,Chile,earthquake,reviewed,0,639,us
+us7000cpqz,1607606398682,24.7818,122.0243,71,6.1,27 km E of Yilan,Taiwan,earthquake,reviewed,0,680,us
+us7000cqyz,1607959249542,-21.8063,-68.7079,114,6,75 km NNE of Calama,Chile,earthquake,reviewed,0,571,us
+us7000crdx,1608074517807,5.1789,125.4212,14,6.1,25 km S of Sarangani,Philippines,earthquake,reviewed,0,584,us
+us7000csqe,1608485002668,40.8667,142.5814,35,6.3,100 km ENE of Hachinohe,Japan,earthquake,reviewed,0,636,us
+us6000d29t,1608747107762,6.2544,133.6362,11,6.1,90 km SW of Angaur State,Palau,earthquake,reviewed,0,582,us
+us6000d2ra,1608853421964,13.82,120.6539,109,6.3,2 km ESE of Calatagan,Philippines,earthquake,reviewed,1,792,us
+us6000d3i9,1609105154770,-39.3398,-74.9849,10,6.7,146 km WNW of Corral,Chile,earthquake,reviewed,1,776,us
+us6000d3zh,1609240794762,45.4244,16.2573,10,6.4,2 km WSW of Petrinja,Croatia,earthquake,reviewed,0,1910,us
+us6000d58t,1609677528915,51.2199,-179.793,21,6.1,230 km WSW of Adak,Alaska,earthquake,reviewed,1,573,us
+us6000d69r,1609966774315,0.0658,122.9487,148,6.1,53 km SSW of Gorontalo,Indonesia,earthquake,reviewed,0,573,us
+us6000d6lg,1610065730091,-29.4295,-178.744,224,6.3,Kermadec Islands,New Zealand,earthquake,reviewed,0,611,us
+us6000d6my,1610082064246,-20.7367,169.8821,113,6.1,146 km SSE of Isangel,Vanuatu,earthquake,reviewed,0,574,us
+us6000d74p,1610250854483,-24.0412,-66.5729,217,6.1,32 km NW of San Antonio de los Cobres,Argentina,earthquake,reviewed,0,581,us
+us6000d764,1610261300094,-16.0347,167.8826,160,6.1,50 km E of Lakatoro,Vanuatu,earthquake,reviewed,0,573,us
+us6000d7ix,1610400779015,51.2811,100.4383,10,6.7,29 km SSW of Turt,Mongolia,earthquake,reviewed,0,777,us
+us7000d030,1610648898093,-2.9717,118.8899,18,6.2,32 km S of Mamuju,Indonesia,earthquake,reviewed,0,600,us
+us7000d18q,1611024382380,-31.8334,-68.7992,20.81,6.4,26 km SW of Pocito,Argentina,earthquake,reviewed,1,1012,us
+us7000d20e,1611231784255,4.9931,127.5145,80,7,211 km SE of Pondaguitan,Philippines,earthquake,reviewed,1,802,us
+us6000df9r,1612671776667,6.7693,125.1011,16,6,9 km W of Magsaysay,Philippines,earthquake,reviewed,0,609,us
+us6000dfad,1612676751377,-3.3226,146.1444,10,6.3,189 km SW of Lorengau,Papua New Guinea,earthquake,reviewed,0,621,us
+us6000dg70,1612961547224,-5.6856,101.6495,10,6.3,219 km SSW of Bengkulu,Indonesia,earthquake,reviewed,0,611,us
+us6000dher,1613225269797,37.7265,141.7751,43.98,7.1,73 km ENE of Namie,Japan,earthquake,reviewed,1,1612,us
+us6000dhxn,1613436565141,-17.8292,167.5413,13,6.2,82 km W of Port-Vila,Vanuatu,earthquake,reviewed,1,640,us
+us6000dila,1613630250717,-18.9515,168.0675,14,6.2,136 km S of Port-Vila,Vanuatu,earthquake,reviewed,0,594,us
+us6000dip3,1613662247991,-14.8373,-176.7574,3.7,6.1,157 km ESE of Alo,Wallis and Futuna,earthquake,reviewed,0,573,us
+us7000df40,1614766569755,39.7546,22.1757,8,6.3,9 km W of Týrnavos,Greece,earthquake,reviewed,0,775,us
+us7000dffl,1614864454647,-37.4787,179.4576,10,7.3,182 km NE of Gisborne,New Zealand,earthquake,reviewed,1,932,us
+us7000dfhs,1614876791135,-14.4334,167.3326,173.35,6.1,66 km SSW of Sola,Vanuatu,earthquake,reviewed,0,575,us
+us7000dfk3,1614879683370,-29.6768,-177.8398,43,7.4,Kermadec Islands,New Zealand,earthquake,reviewed,1,843,us
+us7000dflf,1614886113178,-29.7228,-177.2794,28.93,8.1,Kermadec Islands,New Zealand,earthquake,reviewed,1,1021,us
+us7000dg8x,1614989782227,-37.5763,179.5947,13,6.3,183 km NE of Gisborne,New Zealand,earthquake,reviewed,0,620,us
+us7000djz6,1615919901233,54.7368,163.1803,13.23,6.6,171 km SSE of Ust’-Kamchatsk Staryy,Russia,earthquake,reviewed,1,672,us
+us7000dker,1616025846698,36.9206,5.2014,8,6,21 km NNE of Bejaïa,Algeria,earthquake,reviewed,0,765,us
+us7000dl6y,1616231383966,38.4515,141.6477,43,7,30 km E of Ishinomaki,Japan,earthquake,reviewed,1,1052,us
+us6000dy64,1617270997651,-29.961,-177.6758,20,6.4,Kermadec Islands,New Zealand,earthquake,reviewed,1,630,us
+us6000dz3c,1617608272938,-37.46,179.6324,24,6.1,194 km NE of Gisborne,New Zealand,earthquake,reviewed,0,588,us
+us6000e0iy,1618038015485,-8.5707,112.5054,67,6,45 km S of Sumberpucung,Indonesia,earthquake,reviewed,0,643,us
+us6000e0k5,1618047043306,4.1322,124.6443,300,6.1,167 km SSW of Sarangani,Philippines,earthquake,reviewed,0,574,us
+us6000e0lk,1618054711524,-3.444,145.7329,9,6,196 km N of Madang,Papua New Guinea,earthquake,reviewed,0,555,us
+us6000e30x,1618876702503,0.1831,96.5601,9,6.1,254 km S of Sinabang,Indonesia,earthquake,reviewed,0,575,us
+us6000e47c,1619223818164,-18.9036,-176.2702,301,6.5,225 km WNW of Pangai,Tonga,earthquake,reviewed,0,652,us
+us6000e4rl,1619389682196,-21.6097,-177.1526,246,6.5,207 km WSW of Haveluloto,Tonga,earthquake,reviewed,0,651,us
+us7000dxsy,1619510731717,-3.407,145.5171,10,6.1,176 km ENE of Angoram,Papua New Guinea,earthquake,reviewed,0,574,us
+us7000dy3b,1619576486212,26.7813,92.4565,34,6,8 km NNW of Dhekiajuli,India,earthquake,reviewed,0,2229,us
+us7000dz5t,1619832447215,38.1997,141.5973,43,6.9,30 km SSE of Onagawa Ch?,Japan,earthquake,reviewed,1,919,us
+us7000e2c6,1620809144539,13.2742,-90.2266,22,6,55 km SW of Acajutla,El Salvador,earthquake,reviewed,0,570,us
+us7000e2rq,1620898932044,6.7137,-82.4146,10,6.1,154 km SSE of Punta de Burica,Panama,earthquake,reviewed,0,582,us
+us7000e2xd,1620950294041,37.7169,141.8167,32,6,76 km ENE of Namie,Japan,earthquake,reviewed,0,634,us
+us7000e2zt,1620973987879,0.1364,96.6442,11,6.7,260 km S of Sinabang,Indonesia,earthquake,reviewed,0,698,us
+us7000e532,1621604917193,25.7274,100.0082,9,6.1,25 km NW of Dali,China,earthquake,reviewed,0,1017,us
+us7000e54r,1621620253565,34.5983,98.2513,10,7.3,Southern Qinghai,China,earthquake,reviewed,0,1025,us
+us7000e579,1621635198379,-16.6009,-177.3725,10,6.5,265 km SSE of Alo,Wallis and Futuna,earthquake,reviewed,1,652,us
+ak0216xu2rod,1622444395581,62.4492,-148.2512,44,6.1,73 km N of Chickaloon,Alaska,earthquake,reviewed,1,1152,ak
+us7000e9bi,1622714998295,0.3165,126.2911,26,6.2,132 km WSW of Ternate,Indonesia,earthquake,reviewed,0,593,us
+us7000eeq4,1624208750681,-30.2162,-177.8449,25,6.5,Kermadec Islands,New Zealand,earthquake,reviewed,1,650,us
+us7000eijt,1625362155977,-28.7361,-71.4818,22,6,72 km WSW of Vallenar,Chile,earthquake,reviewed,0,576,us
+nc73584926,1625784588110,38.5075,-119.4998333,7.45,6,Antelope Valley,CA,earthquake,reviewed,0,1124,nc
+us6000etxj,1625877835986,2.9494,126.4984,44.33,6.1,215 km NW of Tobelo,Indonesia,earthquake,reviewed,0,572,us
+us7000emzy,1626555370107,6.8258,-82.6774,4.07,6.1,135 km S of Burica,Panama,earthquake,reviewed,0,635,us
+us6000exmx,1626877560341,-3.2314,146.7999,8.37,6,142 km SSW of Lorengau,Papua New Guinea,earthquake,reviewed,0,554,us
+us6000exs5,1626902112269,7.3926,-82.779,10,6.7,71 km S of Burica,Panama,earthquake,reviewed,1,833,us
+us6000eyfk,1627073337357,13.7047,120.7259,110,6.7,15 km S of Hukay,Philippines,earthquake,reviewed,1,935,us
+us6000ez5x,1627301346655,-0.7679,121.9083,11,6.3,99 km WNW of Luwuk,Indonesia,earthquake,reviewed,1,618,us
+us6000f0qr,1627665019554,-4.9149,-80.6156,34,6.2,7 km E of Sullana,Peru,earthquake,reviewed,0,675,us
+us6000f1ea,1627880479974,-4.499,133.958,10,6,182 km NE of Tual,Indonesia,earthquake,reviewed,0,555,us
+us6000f1r4,1627962158345,8.8809,94.0192,10,6.1,Nicobar Islands,India region,earthquake,reviewed,0,576,us
+us6000f48v,1628703973143,6.4748,126.7151,55.14,7.1,60 km ENE of Pondaguitan,Philippines,earthquake,reviewed,1,914,us
+us6000f652,1628942263447,55.1767,-157.6441,20.74,6.9,125 km SE of Perryville,Alaska,earthquake,reviewed,1,738,us
+us6000f65h,1628944148454,18.4335,-73.4822,10,7.2,Nippes,Haiti,earthquake,reviewed,1,2333,us
+us6000f7vg,1629281405238,-14.8818,167.0585,93,6.9,17 km N of Port-Olry,Vanuatu,earthquake,reviewed,1,741,us
+us7000f2ws,1629783471853,48.8647,154.9113,35,6,219 km SSW of Severo-Kuril’sk,Russia,earthquake,reviewed,0,555,us
+us7000f60j,1630378370513,-29.9211,-177.3798,16,6.4,Kermadec Islands,New Zealand,earthquake,reviewed,1,634,us
+us7000f8tc,1631008196991,-19.3855,-176.0683,10,6,185 km WNW of Pangai,Tonga,earthquake,reviewed,0,556,us
+us7000f93v,1631065667437,16.9465,-99.753,20,7,Acapulco,Mexico,earthquake,reviewed,1,2519,us
+us7000fap8,1631510294639,-23.7629,-67.0129,205,6.2,86 km NW of San Antonio de los Cobres,Argentina,earthquake,reviewed,0,617,us
+us7000fd4k,1632230072025,-36.7771,-73.9329,18.8,6.4,73 km W of Talcahuano,Chile,earthquake,reviewed,0,683,us
+us7000fdds,1632304627023,12.1396,-87.8647,21,6.5,80 km SW of Jiquilillo,Nicaragua,earthquake,reviewed,1,684,us
+us7000fe1w,1632484348163,51.0829,-179.0153,18,6.1,187 km WSW of Adak,Alaska,earthquake,reviewed,1,575,us
+us7000fes8,1632723441478,35.244,25.2697,6,6,6 km N of Thrapsanón,Greece,earthquake,reviewed,0,763,us
+us6000fq2d,1632904625619,38.8893,135.4527,364,6.1,243 km NNW of Nanao,Japan,earthquake,reviewed,0,603,us
+hv72748782,1633902516560,18.8203333333333,-155.527166666667,35.06,6.21,27 km SSE of Naalehu,Hawaii,earthquake,reviewed,0,1173,hv
+ak021d1u1nos,1633943425147,56.2954,-156.581,51.6,6.9,112 km E of Chignik,Alaska,earthquake,reviewed,1,995,ak
+us6000ftxu,1634030645099,35.1691,26.2152,20,6.4,4 km SW of Palekastro,Greece,earthquake,reviewed,0,812,us
+us6000furk,1634265899320,-8.8783,158.4642,33,6.4,148 km WSW of Buala,Solomon Islands,earthquake,reviewed,1,649,us
+us6000fvkf,1634542011639,-13.69,167.0396,93,6.2,59 km WNW of Sola,Vanuatu,earthquake,reviewed,0,593,us
+us6000fx56,1635052294230,24.5108,121.8314,69,6.2,28 km SSE of Yilan,Taiwan,earthquake,reviewed,0,673,us
+us7000fqjc,1635786256557,0.2081,96.709,8,6,253 km S of Sinabang,Indonesia,earthquake,reviewed,0,557,us
+us7000fs08,1636209456731,-0.0451,124.2812,34,6,150 km ESE of Gorontalo,Indonesia,earthquake,reviewed,0,559,us
+us7000fskw,1636439114907,11.2198,-86.5255,20,6.3,62 km S of Masachapa,Nicaragua,earthquake,reviewed,0,680,us
+us7000fszl,1636559113652,23.5935,126.4474,12,6.6,177 km SE of Hirara,Japan,earthquake,reviewed,1,689,us
+us7000ft0f,1636566400379,-4.3244,134.1805,10,6,181 km SW of Nabire,Indonesia,earthquake,reviewed,0,554,us
+us7000fu0x,1636891623595,27.7158,56.0743,9,6,62 km NNW of Bandar Abbas,Iran,earthquake,reviewed,0,650,us
+us7000fu12,1636891718812,27.7266,56.0716,10,6.4,63 km NNW of Bandar Abbas,Iran,earthquake,reviewed,0,2178,us
+us7000fv37,1637244484800,-5.3122,153.7074,34,6.2,192 km SE of Kokopo,Papua New Guinea,earthquake,reviewed,0,595,us
+us7000fwzz,1637841845721,-10.7451,166.5074,10,6.1,77 km E of Lata,Solomon Islands,earthquake,reviewed,0,606,us
+us7000fx45,1637883941752,22.8232,93.5061,43,6.2,20 km WSW of Falam,Myanmar,earthquake,reviewed,0,930,us
+us7000fxq2,1638096734579,-4.4667,-76.8126,126,7.5,43 km NNW of Barranca,Peru,earthquake,reviewed,1,1094,us
+us7000fxyq,1638189644400,31.196,142.5026,11,6.3,Izu Islands,Japan region,earthquake,reviewed,1,657,us
+us6000g7v8,1638268578077,-3.5226,151.1847,10,6.3,113 km SSE of Kavieng,Papua New Guinea,earthquake,reviewed,0,615,us
+us6000g8te,1638268655539,-3.6249,151.3524,10,6.1,110 km NW of Rabaul,Papua New Guinea,earthquake,reviewed,0,572,us
+us6000g8md,1638506405063,-28.4823,-112.0255,10,6.1,295 km WSW of Hanga Roa,Chile,earthquake,reviewed,0,574,us
+us6000g944,1638661675581,4.0932,128.1359,149,6,261 km N of Tobelo,Indonesia,earthquake,reviewed,0,554,us
+us6000gaq5,1639015507684,29.4132,129.3846,7,6,116 km N of Naze,Japan,earthquake,reviewed,0,563,us
+us6000gdma,1639931302616,-16.3139,178.5777,10,6.2,85 km W of Labasa,Fiji,earthquake,reviewed,0,600,us
+nc73666231,1640031031310,40.3901667,-124.298,27.04,6.2,7km N of Petrolia,CA,earthquake,reviewed,1,1420,nc
+us6000gepm,1640215378013,18.8369,-107.0706,10,6,213 km SW of La Cruz de Loreto,Mexico,earthquake,reviewed,0,558,us
+us6000gfgd,1640533377107,-18.1104,-179.352,639.16,6.1,141 km E of Levuka,Fiji,earthquake,reviewed,0,572,us
+us7000g7lx,1640802351962,-7.5482,127.5773,165.49,7.3,125 km NNE of Lospalos,Timor Leste,earthquake,reviewed,0,921,us
+us7000g8kq,1641175784647,-13.1864,166.8148,104,6,110 km NW of Sola,Vanuatu,earthquake,reviewed,0,555,us
+us7000g8n3,1641203195767,24.0079,122.2592,19,6.2,66 km E of Hualien City,Taiwan,earthquake,reviewed,0,628,us
+us7000g90c,1641329746858,-4.8065,125.0808,544,6,284 km E of Katabu,Indonesia,earthquake,reviewed,0,554,us
+us7000g9zq,1641577530809,37.8283,101.29,13,6.6,northern Qinghai,China,earthquake,reviewed,0,1012,us
+us7000gaqu,1641863268064,35.2267,31.9435,21,6.6,48 km WNW of Pólis,Cyprus,earthquake,reviewed,0,976,us
+us7000gavu,1641900943674,52.3415,-167.7554,20,6.8,100 km SE of Nikolski,Alaska,earthquake,reviewed,1,730,us
+us7000gawk,1641904772454,52.5791,-168.3275,19,6.6,53 km SE of Nikolski,Alaska,earthquake,reviewed,1,674,us
+us7000gbu4,1642151141461,-6.86,105.2887,33,6.6,80 km SW of Labuan,Indonesia,earthquake,reviewed,0,791,us
+us7000gcfv,1642337528025,-6.4492,154.8224,379,6.1,74 km WSW of Panguna,Papua New Guinea,earthquake,reviewed,0,572,us
+us7000gdwz,1642781317210,32.7282,132.0386,39,6.3,27 km SSE of Saiki,Japan,earthquake,reviewed,1,690,us
+us7000ge38,1642818373323,3.6724,126.6596,21,6,232 km SE of Sarangani,Philippines,earthquake,reviewed,0,557,us
+us7000ge5q,1642828624896,53.2402,-166.682,29,6.2,71 km S of Unalaska,Alaska,earthquake,reviewed,1,600,us
+us7000gfhb,1643265605543,-19.0992,-176.3135,6.2,6.2,220 km WNW of Pangai,Tonga,earthquake,reviewed,0,591,us
+us7000gfti,1643368449293,5.4966,-82.5844,8,6,281 km SW of Arenas,Panama,earthquake,reviewed,0,558,us
+us7000gh1g,1643743510031,-7.483,128.3132,119,6,184 km NE of Lospalos,Timor Leste,earthquake,reviewed,0,561,us
+us7000ghm5,1643903937367,-4.4661,-76.9283,110,6.5,49 km NW of Barranca,Peru,earthquake,reviewed,0,690,us
+us7000gklv,1644784186350,11.7884,144.2842,15,6,168 km SSW of Merizo Village,Guam,earthquake,reviewed,0,555,us
+us7000gl8w,1644995542847,14.1476,-91.3982,60,6.2,12 km WSW of Nueva Concepción,Guatemala,earthquake,reviewed,0,1000,us
+us7000gmw3,1645510370740,-22.6664,-66.2663,251,6,58 km W of Abra Pampa,Argentina,earthquake,reviewed,0,560,us
+us6000gzyg,1645753166554,0.219,100.1006,4,6.1,65 km NNW of Bukittinggi,Indonesia,earthquake,reviewed,0,767,us
+us6000h1d2,1646225527344,-30.0751,-177.7264,24,6.6,Kermadec Islands,New Zealand,earthquake,reviewed,1,670,us
+us6000h48d,1647205549469,14.096,119.3811,11,6.4,75 km WNW of Cabra,Philippines,earthquake,reviewed,1,699,us
+us6000h48e,1647205762258,-0.6294,98.6259,28,6.7,166 km W of Pariaman,Indonesia,earthquake,reviewed,0,708,us
+us6000h518,1647441267453,37.6468,141.6735,57.18,6,62 km ENE of Namie,Japan,earthquake,reviewed,0,588,us
+us6000h519,1647441390997,37.7132,141.5793,41,7.3,57 km ENE of Namie,Japan,earthquake,reviewed,1,2415,us
+us6000h6nr,1647970898584,23.3839,121.6118,24,6.7,65 km S of Hualien City,Taiwan,earthquake,reviewed,1,806,us
+us7000gyj0,1648673818105,-22.666,170.3659,10,6.9,284 km ESE of Tadine,New Caledonia,earthquake,reviewed,1,738,us
+usd000h551,1649088417662,-17.4723,167.8625,31,6,56 km WNW of Port-Vila,Vanuatu,earthquake,reviewed,0,562,us
+us7000h0yj,1649537558456,-16.3146,166.8601,17,6.3,63 km WSW of Norsup,Vanuatu,earthquake,reviewed,0,618,us
+us7000h1lv,1649818856312,-4.4297,152.0242,149,6.1,28 km WSW of Kokopo,Papua New Guinea,earthquake,reviewed,0,574,us
+us7000h373,1650331387057,7.2852,126.9533,19,6.1,41 km E of Santiago,Philippines,earthquake,reviewed,0,586,us
+us6000hf49,1650491863018,6.9686,126.9241,19,6,50 km ESE of Manay,Philippines,earthquake,reviewed,0,561,us
+us6000hf75,1650526966508,11.5537,-86.9604,27,6.6,55 km WSW of Masachapa,Nicaragua,earthquake,reviewed,1,762,us
+us7000h5mc,1651152073122,-3.9148,146.6901,10,6.1,175 km NE of Madang,Papua New Guinea,earthquake,reviewed,0,573,us
+us7000h781,1651738875666,6.5295,127.1315,18,6,94 km SE of Lukatan,Philippines,earthquake,reviewed,0,560,us
+us7000h82f,1652077382067,24.0406,122.4888,21,6.2,70 km SW of Yonakuni,Japan,earthquake,reviewed,0,603,us
+us7000h87i,1652135586873,-3.3591,146.3506,10,6.3,178 km SW of Lorengau,Papua New Guinea,earthquake,reviewed,0,613,us
+us7000h8g3,1652223992368,-23.496,-66.6519,220,6.8,86 km NNW of San Antonio de los Cobres,Argentina,earthquake,reviewed,1,762,us
+us6000hmz8,1653169848047,14.0187,120.6494,129,6.1,1 km S of Lian,Philippines,earthquake,reviewed,0,606,us
+us6000hn4d,1653232651327,33.2279,141.4121,12,6,235 km SSE of Katsuura,Japan,earthquake,reviewed,0,556,us
+us7000hcmn,1653566541110,-14.9076,-70.2924,236,7.2,10 km W of Azángaro,Peru,earthquake,reviewed,1,877,us
+us7000hcwg,1653618965556,-8.2572,127.2079,49,6.2,37 km NE of Lospalos,Timor Leste,earthquake,reviewed,0,605,us
+us7000hexp,1654348045926,-17.9601,-174.9679,237,6.3,129 km NW of Neiafu,Tonga,earthquake,reviewed,0,613,us
+us7000hf1u,1654385892123,52.0536,178.2682,105,6.3,"Rat Islands, Aleutian Islands",Alaska,earthquake,reviewed,1,612,us
+us7000hfrj,1654649746777,-9.0472,-71.1783,622.73,6.5,107 km SSW of Tarauacá,Brazil,earthquake,reviewed,0,653,us
+us7000hj3u,1655844874410,33.0203,69.4639,4,6,55 km SW of Kh?st,Afghanistan,earthquake,reviewed,0,1074,us
+us6000hywe,1656614436938,19.0236,121.3363,30,6,49 km NNE of Namuac,Philippines,earthquake,reviewed,0,565,us
+us6000hz8x,1656711127977,26.9061,55.2389,16,6,52 km NE of Bandar-e Lengeh,Iran,earthquake,reviewed,0,889,us
+us6000hz9v,1656717913465,26.8878,55.3213,9,6,57 km NE of Bandar-e Lengeh,Iran,earthquake,reviewed,0,738,us
+us6000i1ms,1657573847785,-18.1404,168.9678,10,6,82 km ESE of Port-Vila,Vanuatu,earthquake,reviewed,0,556,us
+us6000i2v0,1657913842791,-44.6215,-79.6496,24.499,6.4,Off the coast of Aisen,Chile,earthquake,reviewed,0,631,us
+us6000i5rd,1658882606871,17.5207,120.8181,33.729,7,11 km NE of Bantay,Philippines,earthquake,reviewed,1,1367,us
+us6000i5zi,1658948338306,-22.1876,-68.5789,112,6.2,Antofagasta,Chile,earthquake,reviewed,0,613,us
+us6000i636,1658981703913,-21.9311,-70.3386,54,6.1,22 km NW of Tocopilla,Chile,earthquake,reviewed,0,612,us
+us6000id0t,1661265099374,-5.0926,103.079,45.258,6.2,119 km S of Pagar Alam,Indonesia,earthquake,reviewed,0,622,us
+us7000i38s,1661743753691,-0.988,98.6046,17,6.2,173 km WSW of Pariaman,Indonesia,earthquake,reviewed,0,596,us
+us7000i4st,1662158391520,-5.6524,148.7121,125,6.1,110 km WNW of Kandrian,Papua New Guinea,earthquake,reviewed,0,573,us
+us7000i59t,1662353539645,29.6786,102.236,12,6.6,44 km SE of Kangding,China,earthquake,reviewed,0,1049,us
+us6000iika,1662766307409,-2.2492,138.1979,18,6.2,Papua,Indonesia,earthquake,reviewed,0,591,us
+us6000iikp,1662768312947,-2.2313,138.1784,21,6.2,260 km ESE of Biak,Indonesia,earthquake,reviewed,0,591,us
+us6000iisb,1662851443721,-1.149,98.654,20,6,173 km WSW of Pariaman,Indonesia,earthquake,reviewed,0,554,us
+us6000iitd,1662853620233,-6.2944,146.5038,116,7.6,70 km E of Kainantu,Papua New Guinea,earthquake,reviewed,1,965,us
+us7000i7ya,1663153446558,-21.1909,170.2666,137,7,209 km SSE of Isangel,Vanuatu,earthquake,reviewed,1,762,us
+us7000i8ui,1663422077890,23.1191,121.4138,10,6.5,96 km SE of Lugu,Taiwan,earthquake,reviewed,1,749,us
+us7000i90q,1663483453846,23.138,121.3439,10,6.9,90 km E of Yujing,Taiwan,earthquake,reviewed,1,890,us
+us7000i9bw,1663610708217,18.4552,-102.9561,26.943,7.6,35 km SSW of Aguililla,Mexico,earthquake,reviewed,1,1799,us
+us7000i9l5,1663698222896,55.5042,166.3282,10,6,254 km ESE of Ust’-Kamchatsk Staryy,Russia,earthquake,reviewed,0,554,us
+us7000ia36,1663827369459,18.2633,-102.9554,20,6.8,55 km SSW of Aguililla,Mexico,earthquake,reviewed,1,1180,us
+us7000iaka,1663966378398,3.8109,96.0514,42.181,6.2,37 km SSW of Meulaboh,Indonesia,earthquake,reviewed,0,598,us
+us7000iam0,1663973607870,-41.3788,-75.5767,20,6.1,156 km WNW of Ancud,Chile,earthquake,reviewed,0,584,us
+us6000itgv,1665699620620,-4.812,153.5906,72,6.4,155 km ESE of Kokopo,Papua New Guinea,earthquake,reviewed,0,637,us
+us6000iv6c,1666267032575,7.6901,-82.3342,20,6.7,60 km SSW of Boca Chica,Panama,earthquake,reviewed,1,797,us
+us6000iwds,1666709940085,17.6609,120.8147,6,6.4,11 km E of Dolores,Philippines,earthquake,reviewed,1,725,us
+us7000imgl,1667556166346,28.1573,-112.3106,10,6.1,82 km SSW of Bahía de Kino,Mexico,earthquake,reviewed,0,597,us
+us7000ip0l,1668163726710,-19.2881,-172.1471,37,7.3,205 km ESE of Neiafu,Tonga,earthquake,reviewed,1,833,us
+us7000ipe4,1668306297830,-37.4652,-73.6757,18,6.2,Near the coast of Bio-Bio,Chile,earthquake,reviewed,0,742,us
+us7000ipkm,1668413306124,33.8139,137.3055,346,6.1,85 km SSE of Toba,Japan,earthquake,reviewed,0,638,us
+us7000iqpn,1668778628687,-4.9043,100.7862,25,6.9,204 km SW of Bengkulu,Indonesia,earthquake,reviewed,0,735,us
+us7000irfb,1669082586891,-9.8198,159.6033,14,7,18 km SW of Malango,Solomon Islands,earthquake,reviewed,1,768,us
+us7000irjd,1669135145789,30.7936,-116.3907,10,6.2,28 km SW of Las Brisas,Mexico,earthquake,reviewed,1,889,us
+us7000irp8,1669165695435,40.8356,30.9831,10,6.1,15 km W of Düzce,Turkey,earthquake,reviewed,0,1760,us
+us6000j6w8,1670181855394,-15.3497,-172.9867,38,6.8,109 km NE of Hihifo,Tonga,earthquake,reviewed,1,720,us
+us6000j8lp,1670769089051,17.1801,-100.53,18,6,7 km W of Corral Falso,Mexico,earthquake,reviewed,0,712,us
+us6000j985,1671043226898,51.6079,178.5971,73,6.3,"Rat Islands, Aleutian Islands",Alaska,earthquake,reviewed,1,611,us
+nc73821036,1671532464770,40.525,-124.423,17.91,6.4,15km WSW of Ferndale,CA,earthquake,reviewed,1,1780,nc
+us7000j0n4,1672245259271,-21.2566,171.3773,4,6.1,289 km SE of Isangel,Vanuatu,earthquake,reviewed,1,573,us
+us7000j2b9,1672928753019,36.4738,70.7455,203,6,44 km S of Jurm,Afghanistan,earthquake,reviewed,0,564,us
+us7000j2yw,1673181162372,-14.9467,166.8791,29,7,23 km WNW of Port-Olry,Vanuatu,earthquake,reviewed,1,768,us
+us7000j36j,1673286455037,-7.0586,130.009,104.95,7.6,Pulau Pulau Tanimbar,Indonesia,earthquake,reviewed,0,957,us
+us7000j4kr,1673821798940,1.9837,97.9979,37,6.1,40 km SE of Singkil,Indonesia,earthquake,reviewed,0,576,us
+us7000j4mj,1673844591935,28.9804,139.3452,405,6.3,Bonin Islands,Japan region,earthquake,reviewed,0,614,us
+us7000j511,1674002085151,-0.0116,123.1998,154,6,62 km SSE of Gorontalo,Indonesia,earthquake,reviewed,0,554,us
+us7000j553,1674021971454,2.7306,127.0221,29.708,7,156 km NW of Tobelo,Indonesia,earthquake,reviewed,1,757,us
+us7000j5sc,1674213820603,16.1397,-62.1529,162,6.1,40 km WSW of Pointe-Noire,Guadeloupe,earthquake,reviewed,0,646,us
+us7000j5x2,1674252579053,-26.7506,-63.0824,596.837,6.8,29 km SW of Campo Gallo,Argentina,earthquake,reviewed,0,718,us
+us6000jiyj,1674585418973,-26.7196,-63.1128,580,6.4,Santiago del Estero,Argentina,earthquake,reviewed,0,633,us
+us6000jjcy,1674729952834,-30.2115,-178.6615,131,6,Kermadec Islands,New Zealand,earthquake,reviewed,0,554,us
+us6000jkpr,1675248286067,7.7431,126.0566,19,6,1 km NW of Babag,Philippines,earthquake,reviewed,0,654,us
+us6000jllz,1675646254342,37.2256,37.0143,10,7.8,Pazarcik earthquake,Kahramanmaras earthquake sequence,earthquake,reviewed,0,2910,us
+us6000jlm1,1675646895784,37.1893,36.8929,9.797,6.7,14 km E of Nurda??,Turkey,earthquake,reviewed,0,791,us
+us6000jlqa,1675679088811,38.0106,37.1962,7.432,7.5,Elbistan earthquake,Kahramanmaras earthquake sequence,earthquake,reviewed,0,2613,us
+us6000jm1y,1675679206742,38.0315,38.0984,10,6,12 km W of Çelikhan,Turkey,earthquake,reviewed,0,653,us
+us6000jlrc,1675684931275,38.0582,36.5114,8.516,6,4 km NNE of Göksun,Turkey,earthquake,reviewed,0,666,us
+us6000jnk5,1676279892524,-29.3698,-178.9718,354,6.1,Kermadec Islands,New Zealand,earthquake,reviewed,0,572,us
+us6000jp76,1676484608107,12.3099,123.8605,8,6.1,9 km NNE of Miaga,Philippines,earthquake,reviewed,0,615,us
+us6000jpl7,1676626654656,-6.6176,132.106,39.742,6.1,130 km SSW of Tual,Indonesia,earthquake,reviewed,0,575,us
+us6000jqcn,1676912669747,36.1616,36.0251,16,6.3,2 km NNW of Uzunba?,Turkey,earthquake,reviewed,0,2497,us
+us6000jqxc,1677112658163,38.0552,73.2287,9,6.9,65 km WSW of Murghob,Tajikistan,earthquake,reviewed,0,761,us
+us6000jr32,1677182567541,3.2796,128.1356,92,6.3,172 km N of Tobelo,Indonesia,earthquake,reviewed,0,613,us
+us6000jrjl,1677331663704,42.8258,145.0212,55,6,Hokkaido,Japan region,earthquake,reviewed,0,567,us
+us6000jrlp,1677360287577,-6.0883,149.828,34,6.2,33 km ENE of Kandrian,Papua New Guinea,earthquake,reviewed,1,594,us
+us7000jgfd,1677648974834,-4.8255,149.5041,600.933,6.6,106 km NW of Kimbe,Papua New Guinea,earthquake,reviewed,1,672,us
+usd000j5jt,1677780270810,-15.3766,166.3907,17,6.5,83 km WSW of Port-Olry,Vanuatu,earthquake,reviewed,1,653,us
+us7000jh99,1677912083113,-29.5023,-178.7965,211,6.9,Kermadec Islands,New Zealand,earthquake,reviewed,1,736,us
+us7000jjp7,1678754948469,-5.4205,146.8342,213,6.3,118 km E of Madang,Papua New Guinea,earthquake,reviewed,0,620,us
+us7000jl3s,1679159572481,-2.7834,-79.8518,68,6.8,14 km NNW of Baláo,Ecuador,earthquake,reviewed,1,1213,us
+us7000jln7,1679417243626,36.523,70.943,192,6.5,40 km SSE of Jurm,Afghanistan,earthquake,reviewed,0,1350,us
+us7000jlxu,1679500834663,-23.4224,-66.4954,228,6.4,86 km WSW of El Aguilar,Argentina,earthquake,reviewed,0,641,us
+us6000k09q,1679995108506,41.1434,142.8148,37,6,Hokkaido,Japan region,earthquake,reviewed,0,560,us
+us6000k0xf,1680197588544,-35.6663,-73.4965,26,6.3,105 km WSW of Constitución,Chile,earthquake,reviewed,0,629,us
+us6000k1id,1680458651261,-4.3229,143.1658,70,7,40 km ESE of Ambunti,Papua New Guinea,earthquake,reviewed,1,796,us
+us6000k1mn,1680491217235,52.7227,158.4935,101,6.5,23 km SSE of Vilyuchinsk,Russia,earthquake,reviewed,1,655,us
+us6000k1qa,1680533981845,0.8388,98.835,84,6.1,77 km SW of Padangsidempuan,Indonesia,earthquake,reviewed,0,583,us
+us6000k1x2,1680612871503,13.7318,125.5376,10,6.2,124 km E of Gigmoto,Philippines,earthquake,reviewed,0,596,us
+us6000k20g,1680646692640,7.5671,-82.3345,16,6.3,73 km S of Boca Chica,Panama,earthquake,reviewed,1,785,us
+us6000k42y,1681401293808,49.215,-129.6178,7,6,237 km SW of Port McNeill,Canada,earthquake,reviewed,1,569,us
+us6000k49j,1681466145220,-6.0413,112.0478,597,7,Java,Indonesia,earthquake,reviewed,0,827,us
+us6000k5gu,1681895163150,-5.9496,149.635,40,6.3,30 km NNE of Kandrian,Papua New Guinea,earthquake,reviewed,0,616,us
+us6000k6mg,1682296915894,-29.9574,-177.8386,46.755,7.1,Kermadec Islands,New Zealand,earthquake,reviewed,1,778,us
+us7000jvl3,1682366457265,-0.8082,98.5112,34,7.1,171 km SSE of Teluk Dalam,Indonesia,earthquake,reviewed,0,848,us
+us6000k9mb,1683265324365,37.5476,137.2994,10,6.2,49 km NE of Anamizu,Japan,earthquake,reviewed,0,693,us
+us6000kawn,1683734520334,-15.6278,-174.4925,210,7.6,82 km WNW of Hihifo,Tonga,earthquake,reviewed,1,910,us
+us6000kcnb,1684364519919,15.1066,-90.8052,252,6.4,8 km SE of Canillá,Guatemala,earthquake,reviewed,0,658,us
+us6000kdnw,1684683913303,-10.2725,161.4437,82.297,6.1,55 km WNW of Kirakira,Solomon Islands,earthquake,reviewed,0,577,us
+us7000k36n,1684824118609,-22.9954,170.3067,10,6.1,290 km E of Vao,New Caledonia,earthquake,reviewed,0,573,us
+us7000k3n3,1684983932956,8.9223,-77.0904,13,6.5,45 km NE of Puerto Obaldía,Panama,earthquake,reviewed,1,729,us
+us7000k46f,1685095404100,35.5294,140.5281,42,6.1,12 km SE of Narutō,Japan,earthquake,reviewed,0,679,us
+us7000k54z,1685499683997,-49.6093,163.8553,14.778,6.3,Auckland Islands,New Zealand region,earthquake,reviewed,0,611,us
+us7000k7su,1686477284886,42.5268,141.9005,121,6.2,20 km WSW of Biratori,Japan,earthquake,reviewed,0,617,us
+us7000k8jz,1686795563272,13.7629,120.7203,112,6.2,Mindoro,Philippines,earthquake,reviewed,0,719,us
+us7000k8qh,1686852388572,-22.9936,-177.1067,179,7.2,274 km SW of Houma,Tonga,earthquake,reviewed,1,805,us
+us7000k8vq,1686903094184,-23.5201,-175.9259,20,6,261 km SSW of ‘Ohonua,Tonga,earthquake,reviewed,0,554,us
+us7000k91w,1686942651064,-23.5577,-175.6208,16,6.2,254 km SSW of ‘Ohonua,Tonga,earthquake,reviewed,1,591,us
+us7000k96l,1687001180456,-23.4652,-175.472,22,6.1,241 km SSW of ‘Ohonua,Tonga,earthquake,reviewed,0,572,us
+us7000k9jv,1687173491960,-4.4729,144.8345,23.844,6.2,96 km ESE of Angoram,Papua New Guinea,earthquake,reviewed,0,596,us
+us6000kpls,1688293663732,-17.881,-174.9484,229,6.9,132 km NW of Neiafu,Tonga,earthquake,reviewed,1,741,us
+us7000keq3,1689020906195,20.0634,-61.1021,14,6.6,278 km NNE of Codrington,Antigua and Barbuda,earthquake,reviewed,1,920,us
+us7000kfnc,1689326940404,14.9004,-93.9011,34,6.3,Offshore Chiapas,Mexico,earthquake,reviewed,0,637,us
+us7000kg30,1689490101158,54.3926,-160.762,25,7.2,2023 Sand Point,Alaska Earthquake,earthquake,reviewed,1,916,us
+us7000kg9g,1689563111472,-38.1862,-70.4427,186,6.6,19 km SE of Loncopué,Argentina,earthquake,reviewed,0,965,us
+us7000kgpb,1689726127656,12.8,-88.0796,70.808,6.5,43 km S of Intipucá,El Salvador,earthquake,reviewed,0,816,us
+us7000khw8,1690166996186,-24.0956,178.7423,523,6,665 km S of Suva,Fiji,earthquake,reviewed,0,554,us
+us6000kvmq,1690375475646,-14.74,167.9135,13,6.4,96 km ENE of Port-Olry,Vanuatu,earthquake,reviewed,1,632,us
+us6000ky1y,1691220006009,-28.1775,-63.1836,575,6.2,Santiago del Estero,Argentina,earthquake,reviewed,0,591,us
+us6000kyph,1691519934184,-15.2082,-173.1883,42,6.1,105 km NE of Hihifo,Tonga,earthquake,reviewed,0,578,us
+us7000knq0,1692190059720,-13.8882,167.2249,188,6.5,35 km W of Sola,Vanuatu,earthquake,reviewed,0,657,us
+us7000kp2i,1692291888770,4.3463,-73.6199,10,6.1,10 km E of El Calvario,Colombia,earthquake,reviewed,0,885,us
+us7000kqbl,1692800563170,-26.8836,-63.2947,554,6.2,17 km NNW of El Hoyo,Argentina,earthquake,reviewed,0,592,us
+us7000krjx,1693252530875,-6.7888,116.5211,500,7.1,180 km NNE of Gili Air,Indonesia,earthquake,reviewed,1,1077,us
+us7000ksrl,1693601394440,50.6792,156.313,137,6.1,13 km E of Severo-Kuril’sk,Russia,earthquake,reviewed,0,572,us
+us7000ktti,1694044084632,-30.2737,-71.4817,36,6.3,38 km SSW of Coquimbo,Chile,earthquake,reviewed,0,660,us
+us7000kufc,1694211061405,31.058,-8.3847,19,6.8,Al Haouz,Morocco,earthquake,reviewed,0,2710,us
+us7000kulj,1694270604563,0.0018,119.7663,13,6,101 km N of Palu,Indonesia,earthquake,reviewed,0,555,us
+us7000kv0k,1694436693104,1.1246,127.4888,151,6,38 km NNE of Ternate,Indonesia,earthquake,reviewed,0,557,us
+us7000kv90,1694516597243,19.2355,121.2293,31.11,6.2,69 km N of Namuac,Philippines,earthquake,reviewed,0,600,us
+us7000kwg2,1695043283535,26.5312,125.2312,176,6.3,191 km N of Hirara,Japan,earthquake,reviewed,0,629,us
+us6000lbdi,1695912025892,-15.5866,167.741,125,6.1,62 km E of Luganville,Vanuatu,earthquake,reviewed,0,576,us
+us6000lch5,1696333084199,29.9183,140.0108,10,6,Izu Islands,Japan region,earthquake,reviewed,0,554,us
+us6000lcri,1696418507730,5.3171,126.0438,113,6.4,65 km E of Sarangani,Philippines,earthquake,reviewed,0,654,us
+us6000lcz1,1696471198562,29.8466,139.9904,10,6.1,Izu Islands,Japan region,earthquake,reviewed,0,573,us
+us6000ldbb,1696555877149,30.1409,139.9683,10,6.1,Izu Islands,Japan region,earthquake,reviewed,0,573,us
+us6000ldpg,1696660863327,34.5982,61.9263,14,6.3,32 km NNE of Zindah Jān,Afghanistan,earthquake,reviewed,0,1014,us
+us6000ldpm,1696662769702,34.5442,61.8891,8,6.3,25 km NNE of Zindah Jān,Afghanistan,earthquake,reviewed,0,1010,us
+us6000ldqd,1696667666985,-5.5729,146.138,55,6.7,54 km SE of Madang,Papua New Guinea,earthquake,reviewed,1,691,us
+us6000ldqf,1696668011361,-5.4749,146.1439,52,6.9,48 km SE of Madang,Papua New Guinea,earthquake,reviewed,0,753,us
+us6000legn,1696932091660,-22.9147,-66.2547,253,6,61 km WSW of Abra Pampa,Argentina,earthquake,reviewed,0,556,us
+us6000len8,1696984915908,34.5364,62.0509,8,6.3,24 km NNW of Herāt,Afghanistan,earthquake,reviewed,0,2037,us
+us6000lfn5,1697340960454,34.6529,62.1244,9,6.3,34 km NNW of Herāt,Afghanistan,earthquake,reviewed,0,1023,us
+us6000lfvn,1697456130449,52.5592,-176.924,174,6.4,78 km NNW of Adak,Alaska,earthquake,reviewed,1,636,us
+us6000lhgd,1698055814193,-29.9334,-177.45,19,6,Kermadec Islands,New Zealand,earthquake,reviewed,0,554,us
+us7000l7b6,1698553927316,-19.3871,168.8034,68,6,53 km WNW of Isangel,Vanuatu,earthquake,reviewed,0,559,us
+us7000l7qy,1698750656943,-17.5412,-179.0263,560,6.5,185 km ENE of Levuka,Fiji,earthquake,reviewed,0,650,us
+us7000l7si,1698755623732,-28.7431,-71.5573,34,6.6,80 km WSW of Vallenar,Chile,earthquake,reviewed,1,719,us
+us7000l85t,1698872688023,-10.0561,123.7541,51,6.1,20 km NE of Kupang,Indonesia,earthquake,reviewed,0,579,us
+us7000lali,1699861414115,-3.8855,151.067,10,6.1,126 km WNW of Rabaul,Papua New Guinea,earthquake,reviewed,0,573,us
+us6000lp12,1700208850513,5.5627,125.0013,52,6.7,32 km SW of Kablalan,Philippines,earthquake,reviewed,1,867,us
+us6000lpyx,1700621331641,1.7827,127.1887,102,6,91 km W of Tobelo,Indonesia,earthquake,reviewed,0,554,us
+us6000lq00,1700628451590,-14.9603,167.9718,13,6.7,97 km E of Port-Olry,Vanuatu,earthquake,reviewed,1,692,us
+us6000lqf9,1700816703893,20.1319,145.5195,22.163,6.9,Maug Islands region,Northern Mariana Islands,earthquake,reviewed,1,734,us
+us7000le6w,1701121602183,-3.5605,144.0313,10,6.5,44 km E of Wewak,Papua New Guinea,earthquake,reviewed,1,654,us
+us7000lff4,1701527824454,8.5266,126.4161,40,7.6,19 km E of Gamut,Philippines,earthquake,reviewed,1,1407,us
+us7000lfi0,1701533021167,8.4377,126.757,35,6.4,47 km NE of Barcelona,Philippines,earthquake,reviewed,1,643,us
+us7000lfjr,1701538815233,8.423,126.722,36.091,6.1,41 km NE of Barcelona,Philippines,earthquake,reviewed,0,578,us
+us7000lfkh,1701540565972,8.4402,126.9387,46.378,6.3,63 km ENE of Barcelona,Philippines,earthquake,reviewed,0,611,us
+us7000lgan,1701550335877,8.4475,126.7782,9,6,49 km NE of Barcelona,Philippines,earthquake,reviewed,0,554,us
+us7000lftp,1701599752871,8.488,126.7454,19,6.6,47 km ENE of Hinatuan,Philippines,earthquake,reviewed,1,709,us
+us7000lfwj,1701614156830,8.732,126.823,13,6,58 km E of Marihatag,Philippines,earthquake,reviewed,0,555,us
+us7000lfxx,1701632975739,8.9705,126.6121,20,6.9,34 km ENE of Aras-asan,Philippines,earthquake,reviewed,1,811,us
+us7000lgwp,1701953790184,-20.6152,169.3089,48,7.1,118 km S of Isangel,Vanuatu,earthquake,reviewed,1,788,us
+us7000li15,1702276412480,-18.8139,-175.6541,248,6.2,174 km NW of Fangale’ounga,Tonga,earthquake,reviewed,0,593,us
+us7000lkb1,1703074281484,-15.8585,-72.5207,93,6.2,11 km E of Iray,Peru,earthquake,reviewed,0,609,us
+usd0010b4f,1703170556291,51.2097,-175.3313,20,6.1,116 km SE of Adak,Alaska,earthquake,reviewed,1,574,us
+us6000m05c,1703754916131,44.596,149.0388,31,6.5,115 km SE of Kuril’sk,Russia,earthquake,reviewed,0,652,us
+us6000m0n6,1703956583833,-2.9934,139.372,33,6.3,146 km WSW of Abepura,Indonesia,earthquake,reviewed,1,612,us
+us6000m0xl,1704093009476,37.4874,137.271,10,7.5,2024 Noto Peninsula,Japan Earthquake,earthquake,reviewed,1,2365,us
+us6000m0xm,1704093521584,37.1895,136.8272,10,6.2,8 km SW of Anamizu,Japan,earthquake,reviewed,0,599,us
+us6000m2jp,1704746922361,4.9225,126.1575,62.574,6.7,93 km SE of Sarangani,Philippines,earthquake,reviewed,1,702,us
+us6000m31m,1704964826337,36.4979,70.6013,204,6.4,45 km SSW of Jurm,Afghanistan,earthquake,reviewed,0,687,us
+us6000m4js,1705615941755,-18.9103,-175.4225,209,6.4,148 km NW of Fangale’ounga,Tonga,earthquake,reviewed,0,632,us
+us6000m50e,1705765720121,18.5192,145.6341,184,6.1,Pagan region,Northern Mariana Islands,earthquake,reviewed,0,573,us
+us6000m52p,1705786265092,-7.2879,-71.464,607,6.6,123 km NW of Tarauacá,Brazil,earthquake,reviewed,0,672,us
+us7000lsze,1705946944340,41.2555,78.6538,13,7,128 km WNW of Aykol,China,earthquake,reviewed,0,2420,us
+us7000lt73,1706020425022,-17.9827,168.0499,31,6.3,39 km SW of Port-Vila,Vanuatu,earthquake,reviewed,1,667,us
+us7000luai,1706334768419,14.0636,-90.6159,90,6.1,15 km W of Taxisco,Guatemala,earthquake,reviewed,0,842,us
+us7000lui3,1706434736538,-8.236,-71.4005,621.081,6.5,70 km W of Tarauacá,Brazil,earthquake,reviewed,0,652,us
+us7000lxyv,1707476268482,-29.9268,-177.2323,13,6.1,Kermadec Islands,New Zealand,earthquake,reviewed,0,573,us
+us7000lym6,1707736774858,22.0086,142.7919,236,6.1,Volcano Islands,Japan region,earthquake,reviewed,0,573,us
+us7000lz5f,1707910822125,11.0047,138.5725,14,6,171 km NNE of Colonia,Micronesia,earthquake,reviewed,0,554,us
+us7000m439,1709889105110,5.8168,126.9407,115,6,103 km SE of Pondaguitan,Philippines,earthquake,reviewed,0,556,us
+us6000milg,1710342802779,-5.831,150.6843,44,6,68 km ESE of Kimbe,Papua New Guinea,earthquake,reviewed,0,556,us
+us6000mkfz,1711097578999,-5.8754,112.3646,9.471,6.4,110 km N of Paciran,Indonesia,earthquake,reviewed,0,735,us
+us6000mksx,1711225324348,-4.1292,143.134,41.464,6.9,36 km ENE of Ambunti,Papua New Guinea,earthquake,reviewed,1,756,us
+us7000m9bq,1712051648569,15.8146,146.8779,10,6.2,137 km ENE of Saipan,Northern Mariana Islands,earthquake,reviewed,0,594,us
+us7000m9g4,1712102292173,23.8356,121.5976,40,7.4,15 km S of Hualien City,Taiwan,earthquake,reviewed,1,1416,us
+us7000m9gc,1712103085266,24.1021,121.6812,13.931,6.4,15 km NNE of Hualien City,Taiwan,earthquake,reviewed,0,667,us
+us7000m9sq,1712200590313,37.7104,141.856,29,6.1,77 km E of Minami-Sōma,Japan,earthquake,reviewed,0,586,us
+us7000ma2w,1712314996357,19.1103,145.3659,222,6.8,Maug Islands region,Northern Mariana Islands,earthquake,reviewed,1,754,us
+us7000maxr,1712656079810,2.6982,127.0624,22,6.4,150 km NW of Tobelo,Indonesia,earthquake,reviewed,1,631,us
+us7000mc2t,1713128188201,-5.8565,151.0953,49,6.5,111 km ESE of Kimbe,Papua New Guinea,earthquake,reviewed,1,653,us
+us7000mcpi,1713363286694,33.2503,132.3647,32,6.3,18 km W of Uwajima,Japan,earthquake,reviewed,0,730,us
+us6000mt0r,1713810412852,23.7141,121.6599,9,6.1,29 km S of Hualien City,Taiwan,earthquake,reviewed,1,621,us
+us6000mt0s,1713810768439,23.8586,121.5662,10,6.1,13 km SSW of Hualien City,Taiwan,earthquake,reviewed,0,711,us
+us6000mu8k,1714206934207,27.8209,139.6186,496,6.5,Bonin Islands,Japan region,earthquake,reviewed,1,652,us
+us6000muc0,1714235390643,-8.005,107.2798,59.701,6.1,91 km S of Banjar,Indonesia,earthquake,reviewed,0,653,us
+us6000mwjd,1714933991021,-3.3167,130.9618,16,6.1,154 km WSW of Fakfak,Indonesia,earthquake,reviewed,0,581,us
+us6000mx5c,1715156235894,-15.1324,168.0214,19.175,6.1,101 km ENE of Luganville,Vanuatu,earthquake,reviewed,0,573,us
+us6000my20,1715513952718,14.4264,-92.4617,61.91,6.4,28 km WSW of Brisas Barra de Suchiate,Mexico,earthquake,reviewed,0,762,us
+us6000mzme,1716111324660,52.0681,-170.9122,28,6,169 km SW of Nikolski,Alaska,earthquake,reviewed,1,554,us
+us6000n102,1716675795997,-17.1173,167.8706,22,6.3,83 km NW of Port-Vila,Vanuatu,earthquake,reviewed,1,619,us
+us6000n158,1716756432057,-19.3431,-174.841,137,6.6,70 km NW of Fangale’ounga,Tonga,earthquake,reviewed,1,676,us
+us7000mstj,1718549253155,-15.8557,-74.4353,27,6,10 km SW of Atiquipa,Peru,earthquake,reviewed,0,567,us
+us7000mu1p,1719115078918,10.6921,-62.6868,77,6,20 km NE of Yaguaraparo,Venezuela,earthquake,reviewed,0,651,us
+us7000mu8s,1719216217383,-14.6255,167.2426,149,6.3,49 km NNE of Port-Olry,Vanuatu,earthquake,reviewed,0,611,us
+us6000n8tq,1719552996902,-15.8277,-74.454,24,7.2,10 km WSW of Atiquipa,Peru,earthquake,reviewed,1,893,us
+us6000n948,1719644732855,-16.0485,-74.556,18,6.1,34 km SW of Atiquipa,Peru,earthquake,reviewed,0,580,us
+us7000mxmu,1720382472295,26.8957,138.8289,546,6.2,Bonin Islands,Japan region,earthquake,reviewed,0,592,us
+us7000myfa,1720663998585,6.0838,123.1503,639.503,7.1,106 km WSW of Sangay,Philippines,earthquake,reviewed,1,790,us
+us7000mykj,1720710527169,48.7877,-128.7103,10,6.4,209 km WSW of Tofino,Canada,earthquake,reviewed,1,657,us
+us7000n05d,1721353848571,-23.0791,-67.8404,127.291,7.4,41 km ESE of San Pedro de Atacama,Chile,earthquake,reviewed,1,994,us
+us7000n068,1721358827417,52.0859,-170.9116,40.972,6,168 km SW of Nikolski,Alaska,earthquake,reviewed,1,555,us
+us7000n0ka,1721530428910,14.6445,-89.9316,272,6.2,6 km E of Jalapa,Guatemala,earthquake,reviewed,0,626,us
+us7000n0s8,1721624667743,-15.5073,168.1241,4,6.1,99 km NE of Norsup,Vanuatu,earthquake,reviewed,0,573,us
+us6000ngng,1722258431966,-20.3812,-173.9806,9,6,73 km SSE of Pangai,Tonga,earthquake,reviewed,0,554,us
+us6000nhqc,1722637382111,8.1851,126.6161,32,6.8,20 km E of Barcelona,Philippines,earthquake,reviewed,1,791,us
+us6000nht0,1722658826565,8.2038,126.8354,15,6.3,44 km E of Barcelona,Philippines,earthquake,reviewed,0,623,us
+us6000nith,1723102975206,31.7599,131.5021,24,7.1,2024 Hyuganada Sea,Japan Earthquake,earthquake,reviewed,0,810,us
+us6000nj9s,1723260512681,47.223,144.7915,402.166,6.5,151 km E of Dolinsk,Russia,earthquake,reviewed,1,652,us
+us7000n7b8,1723764953943,23.7491,121.7669,14,6.1,30 km SSE of Hualien City,Taiwan,earthquake,reviewed,0,600,us
+us7000n7n8,1723921826820,52.9308,160.1331,29,7,102 km E of Petropavlovsk-Kamchatsky,Russia,earthquake,reviewed,1,763,us
+us7000n9dt,1724628547544,-19.8125,-175.0711,96,6.9,75 km W of Pangai,Tonga,earthquake,reviewed,1,746,us
+us7000n9dz,1724628651981,-19.7667,-174.9814,99.28,6,65 km W of Pangai,Tonga,earthquake,reviewed,0,554,us
+us6000nncs,1724882274957,13.0471,-89.583,26.358,6.1,56 km SSW of La Libertad,El Salvador,earthquake,reviewed,0,620,us
+us6000nnlx,1724991862983,53.0016,160.3787,26,6,117 km E of Petropavlovsk-Kamchatsky,Russia,earthquake,reviewed,0,555,us
+us6000np3z,1725221614201,-6.8295,155.5297,39,6.4,56 km S of Panguna,Papua New Guinea,earthquake,reviewed,1,632,us
+us6000nps8,1725498195672,-3.5428,144.1953,7,6.2,59 km NNE of Angoram,Papua New Guinea,earthquake,reviewed,0,592,us
+us7000nd4f,1726073165054,-3.2871,146.4088,8,6.3,168 km SW of Lorengau,Papua New Guinea,earthquake,reviewed,0,612,us
+us7000ne51,1726438968018,51.6088,-130.6121,3.766,6.5,271 km WNW of Port McNeill,Canada,earthquake,reviewed,1,697,us
+us7000ne84,1726486594522,17.1539,147.2254,31,6.3,266 km NE of Saipan,Northern Mariana Islands,earthquake,reviewed,0,627,us
+us6000ntjh,1726953868737,-31.8909,-66.887,141,6,95 km NNW of Villa General Roca,Argentina,earthquake,reviewed,0,567,us
+us6000ntxc,1727121062568,-0.0469,122.8918,143,6,67 km SSW of Gorontalo,Indonesia,earthquake,reviewed,0,555,us
+us7000nhex,1727774885313,-5.9828,124.8988,576,6.1,260 km ESE of Baubau,Indonesia,earthquake,reviewed,0,573,us
+us7000nhjw,1727813134967,-19.2886,-173.0007,10,6.6,125 km SE of Neiafu,Tonga,earthquake,reviewed,1,671,us
+us6000nyau,1728755024516,10.4967,-86.1497,16,6.2,40 km WNW of Tamarindo,Costa Rica,earthquake,reviewed,0,616,us
+us6000nyzk,1729064792516,38.3115,38.8059,10,6,19 km W of Doğanyol,Turkey,earthquake,reviewed,0,962,us
+us7000nmlt,1729694284614,49.394,155.6369,40,6.2,146 km SSW of Severo-Kuril’sk,Russia,earthquake,reviewed,0,591,us
+us7000nnz9,1730290731671,-4.4064,150.0827,509,6,126 km N of Kimbe,Papua New Guinea,earthquake,reviewed,0,571,us
+us7000np33,1730319320095,43.5842,-127.6418,10,6,267 km W of Bandon,Oregon,earthquake,reviewed,1,626,us
+us7000nql2,1731065880376,-46.7807,-75.6402,10,6.3,239 km WNW of Cochrane,Chile,earthquake,reviewed,0,611,us
+us7000nr0v,1731257390426,19.7974,-77.0506,14,6.8,42 km SSW of Bartolomé Masó,Cuba,earthquake,reviewed,1,825,us
+us7000nrwz,1731648510650,-4.7548,153.2923,56,6.6,122 km ESE of Kokopo,Papua New Guinea,earthquake,reviewed,1,672,us
+us7000nsa3,1731845789874,29.0424,131.3968,8,6.1,156 km SSE of Koshima,Japan,earthquake,reviewed,0,573,us
+us7000nu90,1732628823411,36.9549,136.3653,8,6.1,38 km WNW of Hakui,Japan,earthquake,reviewed,0,608,us
+nc75095651,1733424261110,40.374,-125.021666666667,10,7,2024 Offshore Cape Mendocino,California Earthquake,earthquake,reviewed,1,1544,nc
+us7000nx3z,1733687828602,51.0018,-177.3278,18,6.3,108 km SSW of Adak,Alaska,earthquake,reviewed,1,613,us
+us7000nx5r,1733703330691,50.9985,-177.1779,19,6.3,104 km SSW of Adak,Alaska,earthquake,reviewed,1,611,us
+us7000nx5z,1733704732848,50.8586,-177.443,10,6.1,126 km SSW of Adak,Alaska,earthquake,reviewed,1,573,us
+us7000nyqr,1734133098234,-35.33,-70.7256,109,6.4,56 km ESE of Molina,Chile,earthquake,reviewed,0,872,us
+us7000nzf3,1734400045741,-17.6914,168.0842,54.372,7.3,24 km WNW of Port-Vila,Vanuatu,earthquake,reviewed,1,882,us
+us7000p0lv,1734795053399,-17.7041,168.0033,47,6.1,33 km W of Port-Vila,Vanuatu,earthquake,reviewed,0,582,us
+us6000phap,1735850615253,-21.7109,-69.1069,99,6.1,84 km NNW of Calama,Chile,earthquake,reviewed,0,606,us
+us6000pi09,1736097525784,13.0007,-89.1775,46,6.2,56 km SSE of La Libertad,El Salvador,earthquake,reviewed,0,696,us
+us6000pjig,1736670769944,18.5019,-103.3631,39,6.2,18 km SE of Aquila,Mexico,earthquake,reviewed,0,1005,us
+us6000pjny,1736770772252,31.8326,131.5525,39,6.8,15 km SE of Miyazaki,Japan,earthquake,reviewed,1,742,us
+us6000pl8h,1737389846812,23.1816,120.5448,16,6,10 km NE of Yujing,Taiwan,earthquake,reviewed,0,748,us
+us7000pcdl,1739056994697,17.6506,-82.395,14.326,7.6,210 km SSW of George Town,Cayman Islands,earthquake,reviewed,1,1182,us
+us7000pfmk,1740334578073,-11.3195,166.2902,36,6,85 km SE of Lata,Solomon Islands,earthquake,reviewed,0,554,us
+us6000pvgx,1740524145917,0.3994,124.8407,21.726,6.1,45 km E of Modisi,Indonesia,earthquake,reviewed,0,573,us
+us6000px89,1741278099333,-23.3399,-69.0636,96,6,98 km S of Calama,Chile,earthquake,reviewed,0,582,us
+us6000pxvx,1741573994609,71.176,-8.1733,10,6.5,34 km NE of Olonkinbyen,Svalbard and Jan Mayen,earthquake,reviewed,1,656,us
+us6000py97,1741758131676,6.9701,92.5548,23,6,Nicobar Islands,India region,earthquake,reviewed,0,554,us
+us7000pllt,1742568651364,6.9863,-82.4666,10,6.2,124 km SSE of Burica,Panama,earthquake,reviewed,1,641,us
+us7000pllu,1742568821774,51.1558,-176.0703,17,6.2,88 km SSE of Adak,Alaska,earthquake,reviewed,1,594,us
+us7000pmem,1742866991796,-46.7305,165.8632,21,6.7,170 km WSW of Riverton,New Zealand,earthquake,reviewed,1,728,us
+us7000pn9s,1743142852715,22.011,95.9363,10,7.7,2025 Mandalay,Burma (Myanmar) Earthquake,earthquake,reviewed,0,2910,us
+us7000pntq,1743337130362,-20.3036,-174.0718,29,7,61 km SSE of Pangai,Tonga,earthquake,reviewed,1,773,us
+us7000pnvp,1743347094834,-20.3816,-174.0115,17,6.2,72 km SSE of Pangai,Tonga,earthquake,reviewed,0,591,us
+us7000ppfy,1743602637825,30.9792,131.522,29,6.1,56 km ENE of Nishinoomote,Japan,earthquake,reviewed,0,581,us
+us6000q41n,1743797078129,-6.3025,151.6257,9,6.9,184 km ESE of Kimbe,Papua New Guinea,earthquake,reviewed,1,739,us
+us6000q5ka,1744429628682,-4.7074,153.1423,52,6.1,104 km ESE of Kokopo,Papua New Guinea,earthquake,reviewed,0,574,us
+us7000pu62,1745317031888,4.5538,127.831,104,6.2,271 km SE of Pondaguitan,Philippines,earthquake,reviewed,0,594,us
+us7000pufs,1745401751631,40.8342,28.1897,12.736,6.2,24 km SE of Marmara Ereğlisi,Turkey,earthquake,reviewed,0,1668,us
+us7000pv06,1745581492634,1.0835,-79.5319,18,6.3,19 km NE of Esmeraldas,Ecuador,earthquake,reviewed,0,695,us
+us7000pvt7,1745932592562,-48.1824,165.3571,10.595,6.2,285 km SW of Bluff,New Zealand,earthquake,reviewed,0,591,us
+us7000pwpu,1746208747662,-57.304,-67.0168,8,6.4,289 km SSE of Ushuaia,Argentina,earthquake,reviewed,1,634,us
+us7000pz2p,1747176675880,35.237,26.9951,76.202,6,20 km SSE of Fry,Greece,earthquake,reviewed,0,1122,us
+us7000pz41,1747196140513,-18.7126,-175.3343,260,6.4,142 km W of Neiafu,Tonga,earthquake,reviewed,0,632,us
+us7000q0bm,1747753559387,-3.7575,144.8116,16.819,6.5,89 km ENE of Angoram,Papua New Guinea,earthquake,reviewed,1,662,us
+us7000q0pq,1747883975518,35.8915,25.9159,64,6.2,66 km SE of Emporeío,Greece,earthquake,reviewed,0,1223,us
+us7000q1e7,1748170199192,-22.8374,-175.8016,48,6,187 km SSW of ‘Ohonua,Tonga,earthquake,reviewed,0,555,us
+us6000qh1r,1748680637097,42.2705,144.4895,21,6,78 km S of Kushiro,Japan,earthquake,reviewed,0,554,us
+us6000qigd,1749230106807,-26.639,-70.4039,75,6.4,45 km SW of Diego de Almagro,Chile,earthquake,reviewed,1,684,us
+us6000qixr,1749388085772,4.4904,-73.139,9,6.3,15 km NE of Paratebueno,Colombia,earthquake,reviewed,0,970,us
+us6000qlnz,1750540998562,42.8951,146.4037,18,6,82 km SE of Nemuro,Japan,earthquake,reviewed,0,554,us
+us7000q97d,1751065630298,5.2879,126.0611,99.714,6,67 km E of Sarangani,Philippines,earthquake,reviewed,0,593,us
+us7000qb4s,1751892823420,-47.3169,165.6072,22,6.3,212 km WSW of Riverton,New Zealand,earthquake,reviewed,0,623,us
+us7000qcik,1752472197488,-6.1461,131.2126,65.672,6.7,179 km WSW of Tual,Indonesia,earthquake,reviewed,1,715,us
+us7000qclp,1752513408863,6.1357,-82.6741,10,6.2,211 km S of Burica,Panama,earthquake,reviewed,1,592,us
+us7000qd1y,1752698259340,54.5489,-160.4717,20.116,7.3,2025 Sand Point,Alaska Earthquake,earthquake,reviewed,1,960,us
+us7000qdye,1752992897834,52.9041,160.729,23,6.6,142 km E of Petropavlovsk-Kamchatsky,Russia,earthquake,reviewed,1,671,us
+us7000qdyl,1752994141289,52.9086,160.7868,10,7.4,2025 Eastern Kamchatka,Russia Earthquake,earthquake,reviewed,1,847,us
+us7000qdyw,1752995263213,52.8306,160.85,10,6.6,151 km E of Petropavlovsk-Kamchatsky,Russia,earthquake,reviewed,0,671,us
+us7000qdz2,1752996178577,52.9274,160.8117,9.431,6.6,147 km E of Petropavlovsk-Kamchatsky,Russia,earthquake,reviewed,0,671,us
+us7000qdz8,1752996377438,53.0421,161.1039,10,6,166 km E of Petropavlovsk-Kamchatsky,Russia,earthquake,reviewed,0,554,us
+us7000qe51,1753050480072,54.6038,-159.8239,40,6.2,92 km SSE of Sand Point,Alaska,earthquake,reviewed,1,605,us
+us6000qu2r,1753149568611,52.4312,160.6602,10,6.1,154 km ESE of Petropavlovsk-Kamchatsky,Russia,earthquake,reviewed,0,572,us
+us6000qugg,1753303844062,0.4437,122.0857,144.571,6.3,109 km W of Gorontalo,Indonesia,earthquake,reviewed,0,613,us
