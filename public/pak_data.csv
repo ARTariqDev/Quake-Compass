@@ -1,0 +1,287 @@
+date,time,latitude,longitude,depth_km,magnitude,type,distance,direction,district,country
+2013-09-24,16:29:47,26.951,65.5009,15.0,7.7,earthquake,113.0,NW,Bela,Pakistan
+2005-10-08,08:50:40,34.539,73.588,26.0,7.6,earthquake,21.0,NNE,Muzaffarbd,Pakistan
+2011-01-19,01:23:23,28.777,63.951,68.0,7.2,earthquake,46.0,WSW,Dalbandin,Pakistan
+1997-02-28,02:08:02,29.976,68.208,33.0,7.1,earthquake,29.0,ESE,Harnai,Pakistan
+2013-09-28,12:34:06,27.1825,65.5052,12.0,6.8,earthquake,129.0,WSW,Khuzdar,Pakistan
+1975-10-03,10:14:23,30.251,66.315,11.0,6.7,earthquake,64.0,W,Kot Malik Barkhurdar,Pakistan
+2004-04-06,02:24:04,36.512,71.029,187.1,6.6,earthquake,,,,Afghanistan-Tajikistan-Pakistan region
+2008-10-29,16:32:43,30.598,67.455,14.0,6.4,earthquake,13.0,NNW,Alik Ghund,Pakistan
+1975-10-03,22:31:35,30.413,66.35,33.0,6.4,earthquake,56.0,S,Chaman,Pakistan
+2008-10-29,04:09:57,30.639,67.351,15.0,6.4,earthquake,23.0,NW,Alik Ghund,Pakistan
+2005-10-08,15:46:28,34.733,73.1,8.0,6.4,earthquake,9.0,NE,Battagram,Pakistan
+1992-05-20,17:20:32,33.377,71.317,16.3,6.3,earthquake,2.0,WSW,Lachi,Pakistan
+1994-06-30,14:23:21,36.326,71.13,226.6,6.3,earthquake,,,,Afghanistan-Tajikistan-Pakistan region
+2017-02-08,03:03:56,25.1912,63.2644,29.07,6.3,earthquake,22.0,WSW,Pasni,Pakistan
+2002-11-21,02:32:30,35.414,74.515,33.0,6.3,earthquake,58.0,SSE,Gilgit,Pakistan
+1981-09-12,12:15:54,35.693,73.594,33.0,6.2,earthquake,69.0,WSW,Gilgit,Pakistan
+1992-04-24,12:07:23,27.55,66.065,25.0,6.2,earthquake,61.0,WSW,Khuzdar,Pakistan
+1990-06-17,09:51:45,27.398,65.719,14.5,6.1,earthquake,99.0,WSW,Khuzdar,Pakistan
+1990-03-05,00:46:19,28.925,66.331,10.1,6.1,earthquake,27.0,WSW,Kalat,Pakistan
+1997-02-28,02:30:36,29.985,67.977,33.0,6.0,earthquake,13.0,SSE,Harnai,Pakistan
+2000-06-04,22:52:15,28.723,65.383,33.0,6.0,earthquake,15.0,NNW,Kharan,Pakistan
+1985-05-06,08:04:22,30.885,70.269,36.6,5.9,earthquake,41.0,WNW,Taunsa,Pakistan
+2005-10-08,08:57:19,34.238,73.579,10.0,5.9,earthquake,17.0,SE,Muzaffarbd,Pakistan
+1978-03-16,07:00:00,29.926,66.302,33.0,5.9,earthquake,49.0,NNE,Nushki,Pakistan
+1990-07-26,11:53:56,27.247,65.508,18.8,5.9,earthquake,125.0,WSW,Khuzdar,Pakistan
+2021-10-07,03:01:08,30.1933,67.9948,9.0,5.9,earthquake,11.0,NNE,Harnai,Pakistan
+1994-06-04,03:40:21,28.736,70.07,33.0,5.9,earthquake,12.0,ENE,Rojhan,Pakistan
+1997-03-20,13:50:40,30.136,68.022,33.0,5.9,earthquake,8.0,ENE,Harnai,Pakistan
+1992-01-30,10:22:01,24.958,63.141,29.1,5.9,earthquake,47.0,SW,Pasni,Pakistan
+2005-10-08,08:58:36,34.353,73.477,10.0,5.8,earthquake,1.0,SSE,Muzaffarbd,Pakistan
+2013-09-24,16:36:27,27.2085,65.5674,10.03,5.8,earthquake,122.0,WSW,Khuzdar,Pakistan
+2002-07-14,01:06:27,30.797,69.979,33.0,5.8,earthquake,65.0,W,Taunsa,Pakistan
+2005-10-09,13:30:01,34.67,73.182,7.0,5.7,earthquake,14.0,E,Battagram,Pakistan
+2011-08-10,05:53:24,27.723,65.082,37.0,5.7,earthquake,100.0,SSW,Kharan,Pakistan
+1988-03-20,01:19:15,29.999,67.91,15.1,5.7,earthquake,11.0,SSW,Harnai,Pakistan
+2005-10-09,02:13:32,34.71,73.199,12.0,5.7,earthquake,16.0,ENE,Battagram,Pakistan
+2005-10-08,17:25:20,34.771,73.12,10.0,5.7,earthquake,13.0,NE,Battagram,Pakistan
+1997-03-04,18:03:47,29.422,68.79,33.0,5.7,earthquake,55.0,NW,Dera Bugti,Pakistan
+1999-07-12,08:42:16,30.069,69.419,51.5,5.7,earthquake,21.0,NNW,Barkhan,Pakistan
+2008-12-10,03:52:37,30.442,67.404,10.0,5.7,earthquake,12.0,WSW,Alik Ghund,Pakistan
+1978-05-06,16:16:09,29.841,66.208,33.0,5.7,earthquake,36.0,NNE,Nushki,Pakistan
+1995-06-12,02:55:48,32.624,69.68,27.6,5.7,earthquake,37.0,NNE,Wana,Pakistan
+2005-10-08,09:26:11,34.65,73.125,10.0,5.7,earthquake,9.0,ESE,Battagram,Pakistan
+2005-10-08,08:58:12,34.994,73.781,10.0,5.7,earthquake,74.0,NNE,Muzaffarbd,Pakistan
+1997-08-24,18:15:21,30.077,68.004,33.0,5.6,earthquake,6.0,ESE,Harnai,Pakistan
+2005-10-08,09:01:20,34.712,73.239,10.0,5.6,earthquake,20.0,E,Battagram,Pakistan
+2009-10-25,22:47:49,29.566,63.879,125.3,5.6,earthquake,90.0,NW,Dalbandin,Pakistan
+1991-12-07,19:22:32,25.191,62.974,29.9,5.6,earthquake,50.0,W,Pasni,Pakistan
+2022-07-31,18:42:15,25.1448,63.5694,27.11,5.6,earthquake,16.0,SE,Pasni,Pakistan
+1990-11-14,23:45:03,27.44,66.092,37.1,5.6,earthquake,65.0,SW,Khuzdar,Pakistan
+2005-10-19,07:33:28,34.751,73.037,5.0,5.6,earthquake,8.0,N,Battagram,Pakistan
+1990-06-17,22:17:43,27.302,65.548,15.3,5.6,earthquake,119.0,WSW,Khuzdar,Pakistan
+2020-08-13,03:40:45,28.0443,65.9578,13.98,5.6,earthquake,57.0,SSW,Surab,Pakistan
+2015-10-23,05:27:39,29.6377,70.326,11.0,5.6,earthquake,10.0,NNW,Dajal,Pakistan
+1992-08-28,05:50:50,29.087,66.74,9.3,5.6,earthquake,15.0,ENE,Kalat,Pakistan
+2019-12-30,22:18:57,35.5909,74.628,13.82,5.6,earthquake,46.0,SE,Gilgit,Pakistan
+1995-05-31,18:51:19,30.232,67.937,23.7,5.6,earthquake,14.0,N,Harnai,Pakistan
+2005-10-08,09:02:24,34.515,73.323,10.0,5.6,earthquake,12.0,NE,Baffa,Pakistan
+2013-09-24,18:01:39,27.3125,65.6201,14.48,5.6,earthquake,112.0,WSW,Khuzdar,Pakistan
+1986-09-16,02:42:29,36.714,71.092,88.7,5.6,earthquake,,,,Afghanistan-Tajikistan-Pakistan region
+1984-01-18,19:08:18,27.931,65.711,10.0,5.6,earthquake,78.0,SSE,Kharan,Pakistan
+2016-03-21,19:48:51,27.7676,66.0962,10.0,5.6,earthquake,50.0,W,Khuzdar,Pakistan
+1993-11-16,20:52:48,30.798,67.219,26.5,5.6,earthquake,32.0,NE,Pishin,Pakistan
+2005-10-08,17:08:27,34.593,73.187,10.0,5.6,earthquake,17.0,N,Baffa,Pakistan
+1999-06-27,02:54:10,30.098,69.444,33.0,5.6,earthquake,23.0,NNW,Barkhan,Pakistan
+2005-10-23,20:04:20,34.854,73.042,10.0,5.5,earthquake,19.0,N,Battagram,Pakistan
+1975-03-24,10:33:46,29.551,68.601,26.0,5.5,earthquake,66.0,S,Duki,Pakistan
+1992-02-06,04:10:48,31.426,66.825,17.9,5.5,earthquake,66.0,NNE,Chaman,Pakistan
+2004-02-14,15:30:22,34.774,73.216,11.0,5.5,earthquake,20.0,ENE,Battagram,Pakistan
+2024-03-19,05:35:18,29.6902,65.3791,8.0,5.5,earthquake,64.0,WNW,Nushki,Pakistan
+1992-01-20,13:58:22,27.398,65.994,26.5,5.5,earthquake,76.0,SW,Khuzdar,Pakistan
+2005-10-08,10:26:05,34.755,73.152,10.0,5.5,earthquake,14.0,NE,Battagram,Pakistan
+2007-10-19,12:19:54,28.65,66.29,35.0,5.5,earthquake,17.0,N,Surab,Pakistan
+1977-07-13,13:09:15,29.88,67.454,10.0,5.5,earthquake,12.0,E,Mach,Pakistan
+1985-05-08,22:10:41,30.91,70.31,33.0,5.5,earthquake,39.0,NW,Taunsa,Pakistan
+1990-09-09,00:33:18,27.5,66.092,27.9,5.5,earthquake,61.0,SW,Khuzdar,Pakistan
+1990-08-14,05:50:39,27.024,65.969,21.2,5.5,earthquake,94.0,NNW,Bela,Pakistan
+1978-02-11,01:50:47,25.303,62.399,33.0,5.5,earthquake,21.0,NNE,Gwadar,Pakistan
+2020-11-14,07:56:55,30.3659,67.435,12.04,5.5,earthquake,16.0,SSW,Alik Ghund,Pakistan
+2016-05-13,12:01:10,30.659,66.3878,10.0,5.5,earthquake,29.0,SSW,Chaman,Pakistan
+2013-09-24,22:20:13,27.131,65.471,10.52,5.5,earthquake,130.0,NW,Bela,Pakistan
+1990-04-27,10:29:25,28.696,66.177,16.8,5.5,earthquake,23.0,NNW,Surab,Pakistan
+1999-07-28,18:17:12,29.999,69.397,33.0,5.5,earthquake,16.0,NW,Barkhan,Pakistan
+1992-01-04,08:35:21,31.954,69.991,29.2,5.4,earthquake,,,,Afghanistan-Pakistan border region
+2005-10-19,08:16:21,34.755,73.055,10.0,5.4,earthquake,9.0,NNE,Battagram,Pakistan
+1997-09-07,15:15:24,30.041,67.795,33.0,5.4,earthquake,15.0,WSW,Harnai,Pakistan
+2005-10-09,02:45:09,34.651,73.205,10.0,5.4,earthquake,16.0,E,Battagram,Pakistan
+2000-07-28,10:22:23,36.53,71.011,225.4,5.4,earthquake,,,,Afghanistan-Tajikistan-Pakistan region
+2005-10-08,11:42:30,34.63,73.47,10.0,5.4,earthquake,28.0,N,Muzaffarbd,Pakistan
+2005-10-08,10:08:41,34.636,73.234,10.0,5.4,earthquake,19.0,ESE,Battagram,Pakistan
+2005-10-08,09:07:46,34.586,73.159,10.0,5.4,earthquake,16.0,SE,Battagram,Pakistan
+2002-11-02,03:09:29,35.517,74.654,33.0,5.4,earthquake,54.0,SE,Gilgit,Pakistan
+2004-08-13,15:48:38,30.922,69.769,11.6,5.4,earthquake,55.0,SSE,Zhob,Pakistan
+1998-08-05,08:16:38,29.329,68.74,33.0,5.4,earthquake,52.0,NW,Dera Bugti,Pakistan
+2004-02-14,16:56:57,34.798,73.206,11.0,5.4,earthquake,21.0,NE,Battagram,Pakistan
+1982-02-22,22:59:57,35.587,73.762,33.0,5.4,earthquake,61.0,SW,Gilgit,Pakistan
+1990-04-05,14:56:40,35.589,73.877,33.0,5.4,earthquake,53.0,SW,Gilgit,Pakistan
+2012-08-14,01:32:59,34.849,73.663,27.5,5.4,earthquake,55.0,NNE,Muzaffarbd,Pakistan
+1990-02-26,23:21:26,29.845,67.526,17.0,5.4,earthquake,19.0,E,Mach,Pakistan
+2016-10-01,13:04:34,34.9048,73.6822,10.0,5.4,earthquake,62.0,NNE,Muzaffarbd,Pakistan
+2010-12-10,04:17:32,31.53,70.083,14.1,5.4,earthquake,56.0,SW,Kulachi,Pakistan
+2013-12-20,00:28:40,27.5175,67.4543,10.11,5.4,earthquake,34.0,WNW,Warah,Pakistan
+1980-04-28,12:04:41,27.492,64.461,34.0,5.4,earthquake,153.0,SW,Kharan,Pakistan
+1981-12-05,15:12:11,29.546,68.957,33.0,5.4,earthquake,48.0,SW,Kohlu,Pakistan
+1992-01-22,03:07:58,26.632,67.198,25.6,5.4,earthquake,41.0,W,Johi,Pakistan
+2019-09-24,16:01:54,33.0779,73.7936,10.0,5.4,earthquake,8.0,SSE,New Mirpur,Pakistan
+2014-09-25,07:31:57,27.3046,65.7506,52.0,5.4,earthquake,101.0,WSW,Khuzdar,Pakistan
+1975-07-29,18:25:21,25.198,63.051,33.0,5.4,earthquake,42.0,W,Pasni,Pakistan
+2015-02-27,02:59:05,34.671,73.2777,29.74,5.4,earthquake,23.0,E,Battagram,Pakistan
+2018-05-09,08:23:26,33.1351,70.5177,19.35,5.4,earthquake,18.0,NNW,Bannu,Pakistan
+2015-08-03,18:16:03,27.3983,65.9087,28.57,5.3,earthquake,83.0,WSW,Khuzdar,Pakistan
+1984-10-02,08:19:40,26.889,66.209,7.2,5.3,earthquake,74.0,N,Bela,Pakistan
+2005-10-08,10:19:48,34.706,73.13,10.0,5.3,earthquake,10.0,ENE,Battagram,Pakistan
+2005-10-08,11:15:24,34.536,73.408,10.0,5.3,earthquake,19.0,NNW,Muzaffarbd,Pakistan
+1984-01-19,01:24:14,34.685,73.019,33.0,5.3,earthquake,0.0,NNW,Battagram,Pakistan
+2007-09-09,07:00:41,30.612,69.792,20.0,5.3,earthquake,82.0,W,Taunsa,Pakistan
+2001-03-09,06:07:09,32.401,69.444,33.0,5.3,earthquake,16.0,NW,Wana,Pakistan
+1982-07-09,13:01:18,36.341,76.755,33.0,5.3,earthquake,153.0,NE,Skardu,Pakistan
+2005-10-08,09:23:06,34.718,73.158,10.0,5.3,earthquake,13.0,ENE,Battagram,Pakistan
+2017-12-07,04:41:58,27.45,65.7132,12.47,5.3,earthquake,97.0,WSW,Khuzdar,Pakistan
+1985-05-06,00:34:59,30.771,70.289,33.4,5.3,earthquake,35.0,WNW,Taunsa,Pakistan
+2015-07-15,16:25:59,27.3323,65.985,10.0,5.3,earthquake,81.0,SW,Khuzdar,Pakistan
+2015-07-02,12:18:24,34.4513,73.7102,10.0,5.3,earthquake,23.0,ENE,Muzaffarbd,Pakistan
+2015-05-14,21:01:21,24.0224,61.2092,17.81,5.3,earthquake,125.0,SSW,Jiwani,Pakistan
+2008-10-29,03:33:08,30.563,67.444,10.0,5.3,earthquake,11.0,NW,Alik Ghund,Pakistan
+2024-03-20,02:27:01,29.7493,65.3531,6.0,5.3,earthquake,68.0,WNW,Nushki,Pakistan
+2008-12-09,10:53:43,30.393,67.448,10.0,5.3,earthquake,12.0,SSW,Alik Ghund,Pakistan
+1991-08-08,16:12:38,26.879,65.848,53.3,5.3,earthquake,85.0,NNW,Bela,Pakistan
+2002-11-03,12:33:38,35.415,74.6,33.0,5.3,earthquake,61.0,SSE,Gilgit,Pakistan
+1990-11-10,14:46:03,35.329,71.587,33.0,5.3,earthquake,29.0,WNW,Upper Dir,Pakistan
+1986-05-15,19:38:09,29.627,69.363,18.2,5.3,earthquake,31.0,SSE,Kohlu,Pakistan
+2005-10-13,01:23:37,34.779,73.101,8.0,5.3,earthquake,13.0,NNE,Battagram,Pakistan
+2005-10-10,00:20:37,34.349,73.7,10.0,5.3,earthquake,,,,Pakistan
+2012-11-19,22:54:07,30.538,67.584,10.0,5.3,earthquake,8.0,NE,Alik Ghund,Pakistan
+2005-10-09,12:09:18,34.569,73.158,10.0,5.3,earthquake,15.0,NNW,Baffa,Pakistan
+1976-07-10,21:40:35,29.955,68.131,33.0,5.3,earthquake,24.0,SE,Harnai,Pakistan
+1977-02-14,05:22:38,33.595,73.253,33.0,5.2,earthquake,12.0,W,Kahuta,Pakistan
+1976-06-04,05:43:43,24.575,68.41,33.0,5.2,earthquake,22.0,SE,Mirpur Bhtoro,Pakistan
+2002-11-02,06:27:26,35.652,74.419,33.0,5.2,earthquake,31.0,SSE,Gilgit,Pakistan
+1994-12-10,17:16:01,27.914,64.985,56.7,5.2,earthquake,85.0,SSW,Kharan,Pakistan
+1982-05-01,22:42:24,31.583,71.41,33.0,5.2,earthquake,21.0,N,Mankera,Pakistan
+2001-06-30,16:48:34,30.983,69.773,35.2,5.2,earthquake,50.0,SE,Zhob,Pakistan
+1984-04-02,09:59:21,29.788,68.716,33.0,5.2,earthquake,42.0,SSE,Duki,Pakistan
+1998-01-05,21:58:35,29.013,64.352,18.5,5.2,earthquake,14.0,NNW,Dalbandin,Pakistan
+1997-06-17,16:18:41,30.121,68.033,33.0,5.2,earthquake,9.0,ENE,Harnai,Pakistan
+1991-01-28,23:02:10,34.025,73.798,33.0,5.2,earthquake,18.0,N,Rawala Kot,Pakistan
+1992-12-28,13:45:42,26.07,67.299,43.5,5.2,earthquake,68.0,SW,Sehwan,Pakistan
+1996-08-02,16:36:12,29.398,67.695,33.0,5.2,earthquake,9.0,SSE,Dadhar,Pakistan
+1996-04-01,13:08:02,31.496,73.461,43.3,5.2,earthquake,,,,Pakistan
+2024-12-05,11:21:22,32.8339,73.7141,10.0,5.2,earthquake,8.0,SSW,Sarai Alamgir,Pakistan
+2005-07-16,07:17:20,30.003,69.461,10.0,5.2,earthquake,13.0,NNW,Barkhan,Pakistan
+1975-03-16,15:23:08,29.629,68.516,35.0,5.2,earthquake,58.0,S,Duki,Pakistan
+2005-12-25,13:02:05,34.621,73.237,10.0,5.2,earthquake,20.0,N,Baffa,Pakistan
+2013-09-24,19:08:32,27.4939,65.6874,20.97,5.2,earthquake,97.0,WSW,Khuzdar,Pakistan
+2005-10-08,17:44:51,34.75,73.272,10.0,5.2,earthquake,,,,Pakistan
+2010-10-11,02:44:25,33.869,72.887,33.2,5.2,earthquake,14.0,SSW,Haripur,Pakistan
+2005-10-08,17:10:04,34.621,72.996,10.0,5.2,earthquake,6.0,S,Shingli Bala,Pakistan
+2016-05-13,11:59:32,30.6598,66.4243,10.0,5.2,earthquake,28.0,S,Chaman,Pakistan
+2017-02-08,16:02:37,25.1444,63.3102,10.0,5.2,earthquake,20.0,SW,Pasni,Pakistan
+2005-10-29,02:34:14,34.661,73.196,10.0,5.2,earthquake,15.0,E,Battagram,Pakistan
+2010-10-06,22:49:43,29.715,69.587,10.0,5.2,earthquake,21.0,SSE,Barkhan,Pakistan
+2019-06-12,08:10:24,34.6813,72.8572,12.9,5.2,earthquake,11.0,W,Shingli Bala,Pakistan
+2010-08-15,01:18:02,28.326,66.323,35.0,5.2,earthquake,19.0,SSE,Surab,Pakistan
+2014-06-13,11:17:06,27.6169,65.9037,26.13,5.2,earthquake,73.0,WSW,Khuzdar,Pakistan
+2005-11-21,13:26:11,34.65,73.126,10.0,5.2,earthquake,9.0,ESE,Battagram,Pakistan
+2021-07-21,04:54:26,29.3258,70.0487,10.0,5.2,earthquake,36.0,NW,Rajanpur,Pakistan
+2021-12-27,18:31:04,35.5592,74.8205,10.0,5.2,earthquake,60.0,SE,Gilgit,Pakistan
+2010-03-15,00:09:05,35.303,74.498,43.6,5.2,earthquake,70.0,SSE,Gilgit,Pakistan
+2006-03-20,22:40:44,34.756,73.747,12.0,5.2,earthquake,49.0,NNE,Muzaffarbd,Pakistan
+2005-05-23,09:13:45,30.271,67.804,24.3,5.2,earthquake,14.0,SSE,Ziarat,Pakistan
+2008-12-09,17:57:18,30.306,67.64,10.0,5.2,earthquake,11.0,SW,Ziarat,Pakistan
+2023-12-04,17:19:24,27.3166,66.363,10.0,5.2,earthquake,60.0,SSW,Khuzdar,Pakistan
+2008-12-09,07:46:32,30.342,67.555,10.0,5.2,earthquake,16.0,S,Alik Ghund,Pakistan
+2013-10-18,18:18:22,28.2609,66.5271,10.0,5.2,earthquake,36.0,SE,Surab,Pakistan
+2004-07-22,08:56:34,28.645,65.316,10.0,5.1,earthquake,11.0,NW,Kharan,Pakistan
+1992-03-29,06:56:06,33.566,72.31,33.0,5.1,earthquake,22.0,SSW,Attock City,Pakistan
+2009-02-02,13:36:51,27.228,66.322,35.0,5.1,earthquake,70.0,SSW,Khuzdar,Pakistan
+2011-12-23,17:02:02,28.855,68.301,10.0,5.1,earthquake,43.0,NNW,Sohbatpur,Pakistan
+2013-09-24,16:41:50,26.6776,65.4037,9.97,5.1,earthquake,103.0,WNW,Bela,Pakistan
+2015-07-25,01:59:54,33.8564,73.1926,17.03,5.1,earthquake,19.0,WSW,Murree,Pakistan
+1985-09-28,05:06:24,36.318,71.22,81.2,5.1,earthquake,,,,Afghanistan-Tajikistan-Pakistan region
+1980-05-10,16:24:00,29.925,68.166,17.0,5.1,earthquake,29.0,SE,Harnai,Pakistan
+1975-03-22,20:32:15,29.969,68.978,42.0,5.1,earthquake,27.0,WNW,Kohlu,Pakistan
+2022-07-31,18:52:17,25.1097,63.4765,16.727,5.1,earthquake,17.0,S,Pasni,Pakistan
+2022-05-06,11:21:18,26.9552,66.2726,10.0,5.1,earthquake,80.0,N,Bela,Pakistan
+2022-05-06,05:48:02,28.4676,64.35,10.0,5.1,earthquake,46.0,S,Dalbandin,Pakistan
+1977-01-07,11:31:13,34.549,70.972,46.0,5.1,earthquake,30.0,NW,Shinpokh,Pakistan
+2022-03-16,18:35:23,35.5965,74.9251,10.0,5.1,earthquake,65.0,ESE,Gilgit,Pakistan
+1978-05-24,06:56:10,23.786,65.404,30.0,5.1,earthquake,175.0,SSE,Ormara,Pakistan
+1980-10-28,01:12:12,29.214,70.137,33.0,5.1,earthquake,22.0,WNW,Rajanpur,Pakistan
+2014-09-25,11:16:12,27.2827,65.7252,30.9,5.1,earthquake,105.0,SW,Khuzdar,Pakistan
+1981-03-03,13:43:28,31.39,73.216,38.2,5.1,earthquake,12.0,ESE,Faisalabad,Pakistan
+2018-06-17,19:21:28,30.0772,70.2093,10.0,5.1,earthquake,41.0,W,Dera Ghazi Khan,Pakistan
+1982-03-24,19:09:41,28.579,68.773,33.0,5.1,earthquake,23.0,ENE,Sohbatpur,Pakistan
+1984-09-10,10:18:32,36.309,76.334,56.1,5.1,earthquake,128.0,NNE,Skardu,Pakistan
+1993-02-05,00:41:32,24.909,62.855,25.9,5.1,earthquake,58.0,ESE,Gwadar,Pakistan
+2015-05-17,16:16:53,24.0405,61.2598,15.27,5.1,earthquake,122.0,SSW,Jiwani,Pakistan
+1985-05-06,08:27:00,30.788,70.337,34.1,5.1,earthquake,31.0,WNW,Taunsa,Pakistan
+2008-11-01,04:59:52,30.538,67.442,10.0,5.1,earthquake,9.0,NW,Alik Ghund,Pakistan
+2004-05-13,09:00:47,29.528,68.407,25.0,5.1,earthquake,51.0,E,Sibi,Pakistan
+1998-06-26,06:23:52,29.949,69.359,33.0,5.1,earthquake,11.0,ENE,Kohlu,Pakistan
+1997-12-04,15:17:01,29.092,64.11,33.0,5.1,earthquake,36.0,NW,Dalbandin,Pakistan
+2005-10-08,10:00:28,34.166,73.561,10.0,5.1,earthquake,24.0,SSE,Muzaffarbd,Pakistan
+2005-10-08,14:01:55,34.688,73.247,10.0,5.1,earthquake,20.0,E,Battagram,Pakistan
+2001-05-16,16:00:16,30.131,69.742,17.5,5.1,earthquake,33.0,NE,Barkhan,Pakistan
+1999-11-02,18:14:59,30.07,69.412,33.0,5.1,earthquake,22.0,NNW,Barkhan,Pakistan
+2005-10-08,16:28:41,34.644,73.243,10.0,5.1,earthquake,20.0,E,Battagram,Pakistan
+2005-10-19,17:47:27,34.737,73.106,10.0,5.1,earthquake,10.0,NE,Battagram,Pakistan
+2005-11-06,07:11:52,34.52,73.385,10.0,5.1,earthquake,17.0,ENE,Baffa,Pakistan
+1997-02-28,02:17:25,29.767,68.322,33.0,5.1,earthquake,49.0,SSW,Duki,Pakistan
+2005-10-08,09:34:37,34.392,73.729,10.0,5.1,earthquake,23.0,E,Muzaffarbd,Pakistan
+1996-06-21,05:32:52,28.612,68.999,33.0,5.1,earthquake,36.0,N,Tangwani,Pakistan
+2005-12-29,03:04:29,34.611,73.351,10.0,5.1,earthquake,22.0,NNE,Baffa,Pakistan
+2001-07-16,21:07:18,33.014,73.121,50.5,5.1,earthquake,19.0,S,Daultala,Pakistan
+2024-09-11,12:28:02,31.2637,70.5845,31.0,5.1,earthquake,35.0,W,Karor,Pakistan
+2004-10-31,11:10:37,35.267,74.52,10.0,5.1,earthquake,74.0,SSE,Gilgit,Pakistan
+2007-11-25,18:53:47,29.652,69.524,35.0,5.1,earthquake,27.0,S,Barkhan,Pakistan
+1997-12-13,08:41:35,29.631,68.343,33.0,5.1,earthquake,46.0,ENE,Sibi,Pakistan
+1993-12-19,16:45:30,25.21,62.603,24.4,5.1,earthquake,29.0,ENE,Gwadar,Pakistan
+2006-03-21,11:52:03,29.345,68.428,10.0,5.1,earthquake,57.0,ESE,Sibi,Pakistan
+2015-11-27,16:40:34,34.8307,73.9303,5.0,5.0,earthquake,66.0,NE,Muzaffarbd,Pakistan
+1984-04-16,02:49:50,29.899,67.762,20.7,5.0,earthquake,28.0,SW,Harnai,Pakistan
+2019-03-16,11:00:04,29.7206,67.4271,10.0,5.0,earthquake,18.0,SSE,Mach,Pakistan
+2015-11-02,18:40:36,32.0869,69.5562,44.73,5.0,earthquake,23.0,S,Wana,Pakistan
+1982-12-29,20:21:20,29.965,70.183,33.0,5.0,earthquake,45.0,WSW,Dera Ghazi Khan,Pakistan
+1999-06-29,05:57:56,30.01,69.372,33.0,5.0,earthquake,,,,Pakistan
+2000-07-17,10:26:08,34.772,73.029,33.0,5.0,earthquake,10.0,N,Battagram,Pakistan
+2017-11-07,23:58:50,29.4443,66.4555,17.62,5.0,earthquake,43.0,ESE,Nushki,Pakistan
+1982-08-04,22:34:20,29.669,67.495,33.0,5.0,earthquake,26.0,NW,Dadhar,Pakistan
+2005-10-08,16:33:33,34.726,73.043,10.0,5.0,earthquake,5.0,NNE,Battagram,Pakistan
+1981-03-07,19:57:05,30.294,69.424,33.0,5.0,earthquake,45.0,NNW,Barkhan,Pakistan
+1978-04-27,23:12:22,35.069,72.964,33.0,5.0,earthquake,43.0,N,Shingli Bala,Pakistan
+2005-10-08,13:21:52,34.788,73.123,10.0,5.0,earthquake,15.0,NE,Battagram,Pakistan
+2019-12-30,22:49:59,35.6305,74.6387,24.32,5.0,earthquake,43.0,SE,Gilgit,Pakistan
+1978-05-07,15:32:26,33.438,73.532,27.0,5.0,earthquake,15.0,NNE,Nazir Town,Pakistan
+2020-12-30,10:33:43,34.741,72.9466,10.0,5.0,earthquake,7.0,NNW,Shingli Bala,Pakistan
+1984-07-06,11:50:35,25.578,66.409,33.0,5.0,earthquake,33.0,SW,Uthal,Pakistan
+2021-06-17,19:19:36,34.7242,73.2047,10.0,5.0,earthquake,17.0,ENE,Battagram,Pakistan
+1978-01-05,08:26:39,29.638,68.757,33.0,5.0,earthquake,55.0,WSW,Kohlu,Pakistan
+2005-10-08,09:25:26,34.625,73.07,10.0,5.0,earthquake,7.0,SE,Battagram,Pakistan
+2004-10-31,11:02:58,35.367,74.409,18.8,5.0,earthquake,61.0,S,Gilgit,Pakistan
+2002-11-21,02:43:58,35.407,74.549,33.0,5.0,earthquake,60.0,SSE,Gilgit,Pakistan
+2023-08-05,08:06:04,34.8611,72.8455,45.949,5.0,earthquake,23.0,NNW,Shingli Bala,Pakistan
+2002-12-20,03:21:35,35.301,74.494,33.0,5.0,earthquake,70.0,SSE,Gilgit,Pakistan
+1975-04-07,11:41:01,34.939,73.05,37.0,5.0,earthquake,29.0,N,Battagram,Pakistan
+2024-07-15,02:33:18,30.4091,69.3062,10.0,5.0,earthquake,57.0,N,Kohlu,Pakistan
+2003-11-26,00:49:15,31.288,70.071,33.0,5.0,earthquake,59.0,E,Zhob,Pakistan
+1984-05-11,16:45:22,31.487,72.795,40.6,5.0,earthquake,16.0,ESE,Bhawana,Pakistan
+1993-08-23,10:21:43,30.035,67.921,24.6,5.0,earthquake,7.0,SSW,Harnai,Pakistan
+1999-04-28,18:00:47,33.237,73.224,19.1,5.0,earthquake,7.0,WSW,Gujar Khan,Pakistan
+2011-09-27,16:02:59,36.591,76.701,81.7,5.0,earthquake,172.0,NE,Skardu,Pakistan
+2010-12-11,20:34:30,30.424,69.462,28.0,5.0,earthquake,58.0,N,Barkhan,Pakistan
+2010-06-05,21:59:15,28.169,65.966,10.0,5.0,earthquake,46.0,SW,Surab,Pakistan
+2010-05-06,15:29:06,33.108,71.328,50.6,5.0,earthquake,21.0,E,Karak,Pakistan
+2009-07-27,11:23:51,34.899,73.219,49.1,5.0,earthquake,30.0,NE,Battagram,Pakistan
+2009-03-18,04:14:47,25.911,67.238,27.4,5.0,earthquake,,,,Pakistan
+2009-03-14,18:26:23,30.154,68.474,35.5,5.0,earthquake,9.0,W,Duki,Pakistan
+2009-03-02,20:05:02,30.518,67.776,10.0,5.0,earthquake,15.0,NNE,Ziarat,Pakistan
+1992-02-06,04:41:36,31.365,66.858,33.0,5.0,earthquake,62.0,NE,Chaman,Pakistan
+1992-03-25,02:01:47,33.832,72.905,14.2,5.0,earthquake,17.0,NW,Islamabad,Pakistan
+1992-03-28,15:17:41,26.582,67.303,10.0,5.0,earthquake,33.0,WSW,Johi,Pakistan
+2006-11-07,17:31:40,24.451,64.933,19.5,5.0,earthquake,89.0,SSE,Ormara,Pakistan
+2007-04-29,11:33:54,25.316,62.154,28.8,5.0,earthquake,27.0,NW,Gwadar,Pakistan
+2007-11-12,13:21:51,36.241,71.226,110.1,5.0,earthquake,,,,Afghanistan-Tajikistan-Pakistan region
+1992-09-11,16:01:19,31.678,70.09,35.8,5.0,earthquake,44.0,SW,Kulachi,Pakistan
+1993-02-17,21:06:05,33.527,72.508,13.4,5.0,earthquake,26.0,SSE,Sanjwal,Pakistan
+2010-12-12,17:08:57,32.344,69.661,53.6,5.0,earthquake,9.0,ENE,Wana,Pakistan
+1997-06-01,00:20:18,34.893,73.683,33.0,5.0,earthquake,61.0,NNE,Muzaffarbd,Pakistan
+2015-10-27,18:15:05,27.4306,66.0114,10.0,5.0,earthquake,72.0,SW,Khuzdar,Pakistan
+2012-12-25,22:36:32,28.464,66.465,35.0,5.0,earthquake,20.0,E,Surab,Pakistan
+1985-04-08,02:10:09,24.325,69.929,33.0,5.0,earthquake,38.0,ESE,Diplo,Pakistan
+1998-07-13,01:52:16,30.104,67.808,33.0,5.0,earthquake,12.0,W,Harnai,Pakistan
+1993-02-18,17:14:43,36.714,74.075,27.6,5.0,earthquake,70.0,NW,Barishal,Pakistan
+2005-10-09,09:58:54,34.708,73.066,10.0,5.0,earthquake,5.0,NE,Battagram,Pakistan
+1985-05-22,18:57:56,30.886,73.394,33.0,5.0,earthquake,,,,India-Pakistan border region
+1985-12-17,11:54:23,24.896,67.395,33.0,5.0,earthquake,,,,Pakistan
+2005-10-09,13:34:03,34.702,73.198,10.0,5.0,earthquake,16.0,E,Battagram,Pakistan
+2005-10-09,16:21:43,34.658,73.135,10.0,5.0,earthquake,10.0,ESE,Battagram,Pakistan
+1986-10-17,00:54:10,27.727,66.65,42.6,5.0,earthquake,10.0,SSE,Khuzdar,Pakistan
+1987-03-19,19:32:15,23.664,64.688,10.0,5.0,earthquake,171.0,S,Ormara,Pakistan
+1997-07-18,23:59:41,29.591,68.403,33.0,5.0,earthquake,51.0,E,Sibi,Pakistan
+1988-09-09,04:45:43,24.521,65.9,10.0,5.0,earthquake,107.0,SW,Gadani,Pakistan
+2013-09-24,16:50:37,26.5617,65.2146,10.0,5.0,earthquake,115.0,WNW,Bela,Pakistan
+2013-09-24,16:44:26,25.3764,65.9668,10.0,5.0,earthquake,81.0,SW,Uthal,Pakistan
+2005-10-19,02:20:06,34.786,72.985,10.0,5.0,earthquake,11.0,N,Shingli Bala,Pakistan
+2010-04-01,19:07:30,30.088,69.541,35.0,5.0,earthquake,21.0,N,Barkhan,Pakistan
