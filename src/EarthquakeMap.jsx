@@ -472,7 +472,8 @@ const PakistanEarthquakeMap = () => {
             <p className="text-sm text-blue-800">
               <strong>Analysis Note:</strong> This map displays {globalStats.totalEarthquakes} recorded earthquakes ≥5.0 magnitude 
               across {globalStats.districtsAffected} Pakistani districts. Risk zones are color-coded based on historical frequency, 
-              with predictions derived from Random Forest modeling of seismic patterns.
+              with predictions derived from Random Forest modeling of seismic patterns. Training data was filtered to include only major earthquakes 
+              (≥5.0 magnitude) from 1975-2025 so min and max magnitudes are based on this range.
             </p>
           </div>
         </div>
