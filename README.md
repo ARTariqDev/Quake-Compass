@@ -68,7 +68,7 @@ We tested the models using `R²` and `MSE` to measure their performance and sele
 
 1. **Frontend:**
    - Built using ReactJS with LeafletJS for geospatial rendering and TailwindCSS for styling
-   - Displays current and predicted earthquake statistics, highlighting **major earthquakes** (Magnitude ≥ 6)
+   - Displays current and predicted earthquake statistics, highlighting **major earthquakes** (Magnitude ≥ 5)
 
 
 ---
