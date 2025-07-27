@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import Papa from 'papaparse';
 
 const PakistanEarthquakeMap = () => {
-  // Fallback district data for reference otherwise pull cordinates from  pak_data.csv
+  // Fallback district data for reference otherwise pull coordinates from  pak_data.csv
   const pakistanDistricts = {
     'Battagram': { lat: 34.8, lon: 73.0, freq: 35 },
     'Khuzdar': { lat: 27.8, lon: 66.6, freq: 22 },
